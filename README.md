@@ -6,6 +6,7 @@ CS 5356: Building Startup Systems
 Essentials
 ----------
 
+* [Slack](https://cornell-cs5356-2015.slack.com)
 * [Syllabus](course/syllabus.md)
 
 Lectures
