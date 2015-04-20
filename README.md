@@ -8,6 +8,21 @@ Essentials
 
 * [Syllabus](course/syllabus.md)
 
+Lectures
+--------
+
+1. Turning Ideas into Software
+2. Developer Culture and Workflow
+3. Development Stacks
+4. Backend Services
+5. Data Storage
+6. Frontend
+7. File Storage
+8. Mobile
+9. Infrastructure
+10. Performance
+11. Analytics
+
 Copyright
 ---------
 
