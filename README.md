@@ -24,6 +24,20 @@ Lectures
 10. Performance
 11. Analytics
 
+People
+------
+
+#### Instructors
+
+* [Adam Flemming](people/adam-flemming.md)
+* [Daniel Doubrovkine](people/daniel-doubrovkine.md)
+
+#### Faculty
+
+* [Serge Belongie](people/serge-belongie.md)
+* [Vitaly Shmatikov](people/vitaly-shmatikov.md)
+* [Tom Ristenpart](people/tom-ristenpart.md)
+
 Copyright
 ---------
 
