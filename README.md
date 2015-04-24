@@ -38,9 +38,13 @@ People
 * [Vitaly Shmatikov](people/vitaly-shmatikov.md)
 * [Tom Ristenpart](people/tom-ristenpart.md)
 
-Copyright
----------
+Copyright & License
+-------------------
 
-(c) 2015 [Cornell Tech](http://www.cs.cornell.edu)
+(c) 2015 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
 
+All source code is licensed under the [MIT License](MIT-LICENSE.txt).
 
+All content is licensed under the [Creative Commons Attribution 4.0 International License](CC-BY-4.0-LICENSE).
+
+<a href='https://creativecommons.org/licenses/by/4.0'>![](https://i.creativecommons.org/l/by/4.0/88x31.png)</a>
