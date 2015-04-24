@@ -1,5 +1,5 @@
-CS 5356: Building Startup Systems
-=================================
+CS 5356: Startup Systems Design and Engineering
+===============================================
 
 ![Cornell Tech](images/cornell-logo.png "Cornell Tech")
 
