@@ -13,23 +13,61 @@ Lectures
 --------
 
 1. Turning Ideas into Software
+ - prototyping
+ - product design and iteration
+ - user research
 2. Developer Culture and Workflow
-3. Development Stacks
-4. Backend Services
-5. Data Storage
-6. Frontend
-7. File Storage
-8. Mobile
-9. Infrastructure
-10. Performance
-11. Analytics
+ - code versioning
+ - build tools + dependency mgmt
+ - CI, CD,  Deployment
+3. Infrastructure
+ - Structured Logging
+ - Autoscaling + Automation (Chef, Puppet, Docker)
+ - credentials and security
+4. Development Stacks
+5. Backend Services
+ - microservice vs monolithic
+ - PaaS
+6. Python
+ - REST
+ - skeleton project setup + code-along
+7. Database
+ - SQL
+ - NoSQL
+ - OLTP vs OLAP
+ - Cassandra
+8. Block Storage
+ - S3, GridFS
+9. Browsers
+ - HTTP
+ - DOM
+ - REST + API's
+ - Compatibility
+10. CSS Frameworks
+ - Reset
+ - Bootstrap
+ - Responsive
+ - CSS, SASS, LESS
+11. Javascript Frameworks
+ - ng-intro
+12. Mobile
+ - Native vs XCompile
+ - Frameworks
+ - Push Notifications
+ - Releases + App Stores
+13. Data Pipelines
+ - ETL
+ - Images + Assets
+14. Performance
+15. Analytics
+16. Feedback, Focus & Commercial Impact
 
 People
 ------
 
 #### Instructors
 
-* [Adam Flemming](people/adam-flemming.md)
+* [Adam Fleming](people/adam-fleming.md)
 * [Daniel Doubrovkine](people/daniel-doubrovkine.md)
 
 #### Faculty
