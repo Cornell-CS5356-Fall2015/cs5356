@@ -26,5 +26,3 @@ Students will collaborate on an ambitious software project from start to finish 
 * Experience with at least one well-typed or compiled language (Scala, Java, C++, etc.)
 * Experience with at least one scripted language (JavaScript, Ruby, PHP, node.js, Python, etc.)
 * Experience with HTML and CSS.
-
-
