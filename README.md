@@ -12,55 +12,22 @@ Essentials
 Lectures
 --------
 
-1. Turning Ideas into Software
- - prototyping
- - product design and iteration
- - user research
-2. Developer Culture and Workflow
- - code versioning
- - build tools + dependency mgmt
- - CI, CD,  Deployment
-3. Infrastructure
- - Structured Logging
- - Autoscaling + Automation (Chef, Puppet, Docker)
- - credentials and security
-4. Development Stacks
-5. Backend Services
- - microservice vs monolithic
- - PaaS
-6. Python
- - REST
- - skeleton project setup + code-along
-7. Database
- - SQL
- - NoSQL
- - OLTP vs OLAP
- - Cassandra
-8. Block Storage
- - S3, GridFS
-9. Browsers
- - HTTP
- - DOM
- - REST + API's
- - Compatibility
-10. CSS Frameworks
- - Reset
- - Bootstrap
- - Responsive
- - CSS, SASS, LESS
-11. Javascript Frameworks
- - ng-intro
-12. Mobile
- - Native vs XCompile
- - Frameworks
- - Push Notifications
- - Releases + App Stores
-13. Data Pipelines
- - ETL
- - Images + Assets
-14. Performance
-15. Analytics
-16. Feedback, Focus & Commercial Impact
+1. [Turning Ideas into Software](course/01-turning-ideas-into-software.md)
+2. [Developer Culture and Workflow](course/02-developer-culture-and-workflow.md)
+3. [Infrastructure](course/03-infrastructure.md)
+4. [Development Stacks](course/04-development-stacks.md)
+5. [Backend Services](course/05-backend-services.md)
+6. [Python](course/06-python.md)
+7. [Databases](course/07-databases.md)
+8. [Block Storage](course/08-block-storage.md)
+9. [Browsers](course/09-browsers.md)
+10. [CSS Frameworks](course/10-css.md)
+11. [Javascript Frameworks](course/11-javascript.md)
+12. [Mobile](course/12-mobile.md)
+13. [Data Pipelines](course/13-data-pipelines.md)
+14. [Performance](course/14-performance.md)
+15. [Analytics](course/15-analytics.md)
+16. [Feedback, Focus & Commercial Impact](course/16-feedback-focus-commercial-impact.md)
 
 People
 ------

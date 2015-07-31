@@ -1,0 +1,3 @@
+ - code versioning
+ - build tools + dependency mgmt
+ - CI, CD,  Deployment

@@ -1,0 +1,3 @@
+ - prototyping
+ - product design and iteration
+ - user research

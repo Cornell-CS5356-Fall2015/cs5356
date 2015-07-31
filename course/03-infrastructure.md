@@ -1,0 +1,3 @@
+ - Structured Logging
+ - Autoscaling + Automation (Chef, Puppet, Docker)
+ - credentials and security
