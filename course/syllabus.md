@@ -26,3 +26,11 @@ Students will collaborate on an ambitious software project from start to finish 
 * Experience with at least one well-typed or compiled language (Scala, Java, C++, etc.)
 * Experience with at least one scripted language (JavaScript, Ruby, PHP, node.js, Python, etc.)
 * Experience with HTML and CSS.
+ 
+
+### Logistics
+
+* Class is on Wednesdays 2:45pm - 5:30pm in Gummi (third floor)
+* First class is August 26th, last class is December 3, finals are week of December 9-17. No class November 25 for Thanksgiving. See [Cornell's academic calendar](https://www.cornell.edu/academics/calendar/)
+ 
+
