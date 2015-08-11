@@ -13,22 +13,25 @@ Essentials
 Lectures
 --------
 
-1. [Turning Ideas into Software](course/01-turning-ideas-into-software.md)
-2. [Developer Culture and Workflow](course/02-developer-culture-and-workflow.md)
-3. [Infrastructure](course/03-infrastructure.md)
-4. [Development Stacks](course/04-development-stacks.md)
-5. [Backend Services](course/05-backend-services.md)
-6. [Python](course/06-python.md)
-7. [Databases](course/07-databases.md)
-8. [Block Storage](course/08-block-storage.md)
-9. [Browsers](course/09-browsers.md)
-10. [CSS Frameworks](course/10-css.md)
-11. [Javascript Frameworks](course/11-javascript.md)
-12. [Mobile](course/12-mobile.md)
-13. [Data Pipelines](course/13-data-pipelines.md)
-14. [Performance](course/14-performance.md)
-15. [Analytics](course/15-analytics.md)
-16. [Feedback, Focus & Commercial Impact](course/16-feedback-focus-commercial-impact.md)
+1.  26-Aug: [Turning Ideas into Software](course/01-turning-ideas-into-software.md)               [@amfleming](/people/adam-fleming)
+2.  02-Sep: [Developer Culture and Workflow](course/02-developer-culture-and-workflow.md)         [@dblock](/people/daniel-doubrovkine)
+
+3.  09-Sep: [Infrastructure](course/03-infrastructure.md)                                         [@amfleming](/people/adam-fleming)
+4.  16-Sep: [Development Stacks](course/04-development-stacks.md)                                 [@amfleming](/people/adam-fleming)
+5.  23-Sep: [Backend Services](course/05-backend-services.md)                                     [@amfleming](/people/adam-fleming)
+
+6.  30-Sep: [Databases and Storage](course/06-databases-and-storage.md)                           [@dblock](/people/daniel-doubrovkine)
+7.  07-Oct: [Data Pipelines](course/07-data-pipelines.md)                                         [@dblock](/people/daniel-doubrovkine)
+8.  14-Oct: [Mobile](course/08-mobile.md)                                                         [@dblock](/people/daniel-doubrovkine)
+
+9.  21-Oct: [Browsers](course/09-browsers.md)                                                     [@amfleming](/people/adam-fleming)
+10. 28-Oct: [CSS Frameworks](course/10-css.md)                                                    [@amfleming](/people/adam-fleming)
+11. 04-Nov: [Javascript Frameworks](course/11-javascript.md)                                      [@amfleming](/people/adam-fleming)
+
+12. 11-Nov: [Performance](course/12-performance.md)                                               [@dblock](/people/daniel-doubrovkine)
+13. 18-Nov: [Analytics](course/13-analytics.md)                                                   [@dblock](/people/daniel-doubrovkine)
+    25-Nov: No class.
+14. 02-Dec: [Feedback, Focus & Commercial Impact](course/14-feedback-focus-commercial-impact.md)  [@amfleming](/people/adam-fleming) + [@dblock](/people/daniel-doubrovkine)
 
 People
 ------
