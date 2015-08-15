@@ -28,6 +28,18 @@ Lectures
 13. 18-Nov: [Analytics](course/13-analytics.md)                                                   [@dblock](/people/daniel-doubrovkine.md)
 14. 02-Dec: [Feedback, Focus & Commercial Impact](course/14-feedback-focus-commercial-impact.md)  [@amfleming](/people/adam-fleming.md) + [@dblock](/people/daniel-doubrovkine.md)
 
+Projects
+--------
+
+Class project ideas.
+
+* [Two Star Car Service](projects/two-star-car-service.md)
+* [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
+* [Blockchain Lottery and Gambling](projects/blockchain-lottery-and-gambling.md)
+* [Blockchain Voting](projects/blockchain-voting.md)
+* [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
+* [Power Tools Sharing Economy](projects/power-tools-sharing.md)
+
 People
 ------
 
