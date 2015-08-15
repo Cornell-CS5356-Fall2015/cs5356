@@ -13,8 +13,8 @@ Essentials
 Lectures
 --------
 
-1.  26-Aug: [Turning Ideas into Software](course/01-turning-ideas-into-software.md)               [@amfleming](/people/adam-fleming.md)
-2.  02-Sep: [Developer Culture and Workflow](course/02-developer-culture-and-workflow.md)         [@dblock](/people/daniel-doubrovkine.md)
+1.  26-Aug: [Developer Culture and Workflow](course/01-developer-culture-and-workflow.md)         [@dblock](/people/daniel-doubrovkine.md)
+2.  02-Sep: [Turning Ideas into Software](course/02-turning-ideas-into-software.md)               [@amfleming](/people/adam-fleming.md)
 3.  09-Sep: [Infrastructure](course/03-infrastructure.md)                                         [@amfleming](/people/adam-fleming.md)
 4.  16-Sep: [Development Stacks](course/04-development-stacks.md)                                 [@amfleming](/people/adam-fleming.md)
 5.  23-Sep: [Backend Services](course/05-backend-services.md)                                     [@amfleming](/people/adam-fleming.md)
