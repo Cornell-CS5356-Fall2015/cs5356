@@ -31,7 +31,9 @@ Lectures
 Projects
 --------
 
-Class project ideas.
+See [Project Logistics](projects/logistics.md) for important dates and deliverables.
+
+#### Class Project Ideas
 
 * [Two Star Car Service](projects/two-star-car-service.md)
 * [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
