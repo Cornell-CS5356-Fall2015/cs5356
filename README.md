@@ -56,6 +56,10 @@ People
 * [Vitaly Shmatikov](people/vitaly-shmatikov.md)
 * [Tom Ristenpart](people/tom-ristenpart.md)
 
+#### Guest Lecturers
+
+Read about guest lectures [here](course/guest-lectures.md).
+
 Copyright & License
 -------------------
 
