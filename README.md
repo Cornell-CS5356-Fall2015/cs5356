@@ -6,6 +6,8 @@ CS 5356: Startup Systems Design and Engineering
 Essentials
 ----------
 
+Can't find this page? Just remember [bit.ly/cs53562015](http://bit.ly/cs53562015).
+
 * [Slack](https://cornell-cs5356-2015.slack.com)
 * [Syllabus](course/syllabus.md)
 * [Logistics](course/logistics.md)
