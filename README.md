@@ -8,7 +8,7 @@ Essentials
 
 Can't find this page? Just remember [bit.ly/cs53562015](http://bit.ly/cs53562015).
 
-* [Slack](https://cornell-cs5356-2015.slack.com)
+* [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup).
 * [Syllabus](course/syllabus.md)
 * [Logistics](course/logistics.md)
 
