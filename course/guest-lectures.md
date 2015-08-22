@@ -17,6 +17,7 @@ See [logistics](logistics.md) for class hours and other details.
 2. Contribute a paragraph introducing your lecture.
 3. Add yourself as a guest lecturer under [people](/README.md#people).
 4. Make a pull request.
-5. Before or after the lecture update the course with links to code and such.
+5. If you're showing slides, use [this template](https://docs.google.com/presentation/d/17ja25npJOG5qcUNsaJzTWEl_fLqPR5S4FozVkbI5GmU/edit?usp=sharing).
+6. Before or after the lecture update the course with links to code and such.
 
 See [CONTRIBUTING](/CONTRIBUTING.md) for details.
