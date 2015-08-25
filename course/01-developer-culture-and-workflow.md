@@ -1,5 +1,7 @@
 # Developer Culture and Workflow
 
+* [Lecture Slides PDF](cs5356-01-developer-culture-and-workflow.pdf) / [Google Docs](https://docs.google.com/a/dblock.org/presentation/d/1_YizH6yDzBmtGYcNPENEcxWiYBpg8T_CmMg8Nv7pJMU/edit?usp=sharing)
+
 ## Software Eating the World
 
 _In 2007, right before the first iPhone launched, [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) asked Steve Jobs the obvious question: The design of the iPhone was based on discarding every physical interface element except for a touchscreen. Would users be willing to give up the then-dominant physical keypads for a soft keyboard? His answer was brusque: "They’ll learn." Steve turned out to be right._
@@ -124,4 +126,3 @@ Pair programming is a technique where two programmers work as a pair together on
 ## Homework
 
 See [this link](/course/01-developer-culture-and-workflow/git-walkthrough.md#homework) for homework and [your startup project](/projects/logistics.md) for deliverables for next week - a startup project pitch.
-
