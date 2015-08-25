@@ -3,14 +3,14 @@ CS 5356: Startup Systems Design and Engineering
 
 ![Cornell Tech](images/cornell-logo.png "Cornell Tech")
 
-* [Cornell Tech](http://tech.cornell.edu).
+* [Cornell Tech](http://tech.cornell.edu)
 
 Essentials
 ----------
 
 Can't find this page? Just remember [bit.ly/cs53562015](http://bit.ly/cs53562015).
 
-* [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup).
+* [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup)
 * [Syllabus](course/syllabus.md)
 * [Logistics](course/logistics.md)
 
