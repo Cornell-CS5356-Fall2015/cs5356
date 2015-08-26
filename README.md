@@ -11,8 +11,8 @@ Essentials
 Can't find this page? Just remember [bit.ly/cs53562015](http://bit.ly/cs53562015).
 
 * [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup)
+* [Logistics, Location, Class, Office Hours](course/logistics.md)
 * [Syllabus](course/syllabus.md)
-* [Logistics](course/logistics.md)
 
 Lectures
 --------
