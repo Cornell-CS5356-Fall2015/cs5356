@@ -68,6 +68,10 @@ People
 
 Read about guest lectures [here](course/guest-lectures.md).
 
+#### Students
+
+* [Daniel Speiser](people/daniel-speiser.md)
+
 Copyright & License
 -------------------
 
