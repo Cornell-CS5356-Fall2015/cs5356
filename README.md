@@ -68,6 +68,11 @@ People
 
 Read about guest lectures [here](course/guest-lectures.md).
 
+#### Students
+
+* [Bochen Wang](people/bochen-wang.md)
+* [Daniel Speiser](people/daniel-speiser.md)
+
 Copyright & License
 -------------------
 
