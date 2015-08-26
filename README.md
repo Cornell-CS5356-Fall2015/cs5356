@@ -64,6 +64,10 @@ People
 
 * [Karn Seth](people/karn-seth.md)
 
+#### Students 
+
+* [Shreyas Kulkarni](people/shreyas-kulkarni.md)
+
 #### Guest Lecturers
 
 Read about guest lectures [here](course/guest-lectures.md).
