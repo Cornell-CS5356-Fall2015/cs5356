@@ -45,6 +45,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Blockchain Voting](projects/blockchain-voting.md)
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md)
+* [GitRank](projects/gitrank.md)
 
 People
 ------
