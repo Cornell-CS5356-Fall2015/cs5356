@@ -75,6 +75,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Daniel Speiser](people/daniel-speiser.md)
 * [Nicolas Joseph](people/nicolas-joseph.md)
 * [Haotian Zhang](people/haotian-zhang.md)
+* [Bill Marino](people/bill-marino.md)
 
 Copyright & License
 -------------------
