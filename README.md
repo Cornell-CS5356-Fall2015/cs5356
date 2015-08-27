@@ -71,6 +71,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 #### Students
 
 * [Daniel Speiser](people/daniel-speiser.md)
+* [Nicolas Joseph](people/nicolas-joseph.md)
 
 Copyright & License
 -------------------
