@@ -1,7 +1,7 @@
 Thomas Yang
 ----------------
 
-![](photos/thomas.jpg)
+![](photos/thomas.png)
 
 * [Github](http://github.com/hacker-yhj)
 * [fackbook](https://www.facebook.com/profile.php?id=100009268239442)
