@@ -71,6 +71,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 #### Students
 
 * [Daniel Speiser](people/daniel-speiser.md)
+* [Sonia Sen](people/sonia-sen.md)
 
 Copyright & License
 -------------------
