@@ -71,6 +71,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 
 #### Students
 
+* [Bochen Wang](people/bochen-wang.md)
 * [Daniel Speiser](people/daniel-speiser.md)
 * [Nicolas Joseph](people/nicolas-joseph.md)
 * [Haotian Zhang](people/haotian-zhang.md)
