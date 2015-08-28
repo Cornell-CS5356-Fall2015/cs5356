@@ -1,7 +1,7 @@
 Shreyas Kulkarni
+---------------
 
-A tech enthusiast and a coder. 
+![](photos/shreyas-kulkarni.jpg)
 
-You can follow me on Twitter - [@startdot](http://twitter.com/startdot) and can find more about me 
-[here](https://in.linkedin.com/in/kshreyas)
-
+* LinkedIn(http://linkedin.com/in/kshreyas)
+* You can find me on Twitter as @startdot(www.twitter.com/startdot)
