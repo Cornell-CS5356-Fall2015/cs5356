@@ -77,6 +77,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Haotian Zhang](people/haotian-zhang.md)
 * [Thomas Yang](people/thomas-yang.md)
 * [Brunno Attorre](people/brunno-attorre.md)
+* [Shreyas Kulkarni](people/shreyas-kulkarni.md)
 
 Copyright & License
 -------------------
