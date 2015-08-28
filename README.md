@@ -45,6 +45,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Blockchain Voting](projects/blockchain-voting.md)
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md)
+* [GitRank](projects/gitrank.md)
 
 People
 ------
@@ -71,6 +72,14 @@ People
 #### Guest Lecturers
 
 Read about guest lectures [here](course/guest-lectures.md).
+
+#### Students
+
+* [Bochen Wang](people/bochen-wang.md)
+* [Daniel Speiser](people/daniel-speiser.md)
+* [Nicolas Joseph](people/nicolas-joseph.md)
+* [Haotian Zhang](people/haotian-zhang.md)
+* [Brunno Attorre](people/brunno-attorre.md)
 
 Copyright & License
 -------------------
