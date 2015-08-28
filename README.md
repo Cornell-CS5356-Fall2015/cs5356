@@ -78,6 +78,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Thomas Yang](people/thomas-yang.md)
 * [Brunno Attorre](people/brunno-attorre.md)
 * [Tianyuan Liu](people/tianyuan-liu.md)
+* [Shreyas Kulkarni](people/shreyas-kulkarni.md)
 
 Copyright & License
 -------------------
