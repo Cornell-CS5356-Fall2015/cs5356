@@ -80,7 +80,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Nicolas Joseph](people/nicolas-joseph.md)
 * [Haotian Zhang](people/haotian-zhang.md)
 * [Brunno Attorre](people/brunno-attorre.md)
-
+* [Shreyas Kulkarni](people/shreyas-kulkarni.md)
 Copyright & License
 -------------------
 
