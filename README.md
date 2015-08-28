@@ -65,10 +65,6 @@ People
 
 * [Karn Seth](people/karn-seth.md)
 
-#### Students 
-
-* [Shreyas Kulkarni](people/shreyas-kulkarni.md)
-
 #### Guest Lecturers
 
 Read about guest lectures [here](course/guest-lectures.md).
@@ -81,8 +77,9 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Haotian Zhang](people/haotian-zhang.md)
 * [Brunno Attorre](people/brunno-attorre.md)
 * [Shreyas Kulkarni](people/shreyas-kulkarni.md)
-Copyright & License
--------------------
+
+####Copyright & License
+-----------------------
 
 (c) 2015 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
 
