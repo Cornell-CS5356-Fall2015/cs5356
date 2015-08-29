@@ -82,6 +82,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Liudan Xiao](people/liudan-xiao.md)
 * [Peter Tran](people/peter-tran.md)
 * [Hannah Xue](people/hannah-xue.md)
+* [Sonia Sen](people/sonia-sen.md)
 
 Copyright & License
 -------------------
