@@ -1,4 +1,4 @@
-![Asheesh Agarwal](photos/Asheesh Agarwal.jpg)
+![Asheesh Agarwal](photos/Asheesh\ Agarwal.jpg)
 
 * [GitHub Page](https://github.com/asheesh-agarwal)
 * [Twitter Page](https://twitter.com/AsheeshAgarwal)
