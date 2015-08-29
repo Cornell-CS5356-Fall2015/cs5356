@@ -1,4 +1,4 @@
-Peter Trane
+Peter Tran
 ------------------
 
 ![](photos/peter-tran.jpg)

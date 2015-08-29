@@ -78,6 +78,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Thomas Yang](people/thomas-yang.md)
 * [Brunno Attorre](people/brunno-attorre.md)
 * [Peter Tran](people/peter-tran.md)
+
 Copyright & License
 -------------------
 
