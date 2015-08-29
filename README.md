@@ -80,6 +80,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Tianyuan Liu](people/tianyuan-liu.md)
 * [Shreyas Kulkarni](people/shreyas-kulkarni.md)
 * [Liudan Xiao](people/liudan-xiao.md)
+* [Peter Tran](people/peter-tran.md)
 
 Copyright & License
 -------------------
