@@ -46,6 +46,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md)
 * [GitRank](projects/gitrank.md)
+* [Political Survey App](projects/political-survey-app.md)
 
 People
 ------
@@ -77,6 +78,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Haotian Zhang](people/haotian-zhang.md)
 * [Thomas Yang](people/thomas-yang.md)
 * [Brunno Attorre](people/brunno-attorre.md)
+* [Brendan Ritter](people/brendan-ritter.md)
 
 Copyright & License
 -------------------
