@@ -83,6 +83,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Peter Tran](people/peter-tran.md)
 * [Hannah Xue](people/hannah-xue.md)
 * [Sonia Sen](people/sonia-sen.md)
+* [Jocelyn Kong](people/jocelyn-kong.md)
 
 Copyright & License
 -------------------
