@@ -97,6 +97,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Gideon Glass](people/gideon-glass.md)
 * [Haiwei Su](people/haiwei-su.md)
 * [Brendan Ritter](people/brendan-ritter.md)
+* [Halil Akin](people/halil-akin.md)
 
 Copyright & License
 -------------------
