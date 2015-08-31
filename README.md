@@ -86,11 +86,11 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Sonia Sen](people/sonia-sen.md)
 * [Jocelyn Kong](people/jocelyn-kong.md)
 * [Matt Zhang](people/matt-zhang.md)
-* [Omri Sass](people/omri-sass.md) 
-* [Inna Shteinbuk](people/inna-shteinbuk.md) 
-* [Bill Marino](people/bill-marino.md) 
+* [Omri Sass](people/omri-sass.md)
+* [Inna Shteinbuk](people/inna-shteinbuk.md)
+* [Bill Marino](people/bill-marino.md)
 * [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
-* [Naveen Parthasarathy](people/naveen-parthasarathy.md) 
+* [Naveen Parthasarathy](people/naveen-parthasarathy.md)
 * [Edward Wu](people/edward-wu.md)
 * [Jeehyun (Inna) Kim](people/jeehyun-kim.md)
 * [Mengjue Wang](people/mengjue-wang.md)
@@ -98,6 +98,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Haiwei Su](people/haiwei-su.md)
 * [Brendan Ritter](people/brendan-ritter.md)
 * [Halil Akin](people/halil-akin.md)
+* [Tim Delisle](people/tim-delisle.md)
 
 Copyright & License
 -------------------
