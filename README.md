@@ -90,6 +90,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Bill Marino](people/bill-marino.md) 
 * [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
 * [Naveen Parthasarathy](people/naveen-parthasarathy.md) 
+* [Jeehyun (Inna) Kim](people/jeehyun-kim.md)
 
 Copyright & License
 -------------------
