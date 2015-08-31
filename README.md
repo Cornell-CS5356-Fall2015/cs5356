@@ -125,6 +125,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Praveen Gupta](people/praveen-gupta.md)
 * [Rishav Kanoria](people/rishav-kanoria.md)
 * [Roger Chen](people/roger-chen.md)
+* [Sasinda Rukshan](people/sasinda-rukshan.md)
 * [Shimiao Huang](people/shimiao-huang.md)
 * [Shreyas Kulkarni](people/shreyas-kulkarni.md)
 * [Sonia Sen](people/sonia-sen.md)
