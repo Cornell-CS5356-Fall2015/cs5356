@@ -89,6 +89,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Inna Shteinbuk](people/inna-shteinbuk.md) 
 * [Bill Marino](people/bill-marino.md) 
 * [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
+* [Naveen Parthasarathy](people/naveen-parthasarathy.md) 
 
 Copyright & License
 -------------------
