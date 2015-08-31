@@ -88,6 +88,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Omri Sass](people/omri-sass.md) 
 * [Inna Shteinbuk](people/inna-shteinbuk.md) 
 * [Bill Marino](people/bill-marino.md) 
+* [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
 
 Copyright & License
 -------------------
