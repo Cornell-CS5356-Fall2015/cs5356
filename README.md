@@ -92,6 +92,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Naveen Parthasarathy](people/naveen-parthasarathy.md) 
 * [Edward Wu](people/edward-wu.md)
 * [Jeehyun (Inna) Kim](people/jeehyun-kim.md)
+* [Mengjue Wang](people/mengjue-wang.md)
 
 Copyright & License
 -------------------
