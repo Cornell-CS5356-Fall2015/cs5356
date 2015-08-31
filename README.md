@@ -99,6 +99,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Brendan Ritter](people/brendan-ritter.md)
 * [Halil Akin](people/halil-akin.md)
 * [Tim Delisle](people/tim-delisle.md)
+* [Yanbo Li](people/yanbo-li.md)
 
 Copyright & License
 -------------------
