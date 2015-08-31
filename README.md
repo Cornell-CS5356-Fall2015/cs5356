@@ -98,6 +98,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Haiwei Su](people/haiwei-su.md)
 * [Brendan Ritter](people/brendan-ritter.md)
 * [Halil Akin](people/halil-akin.md)
+* [Yanbo Li](people/yanbo-li.md)
 
 Copyright & License
 -------------------
