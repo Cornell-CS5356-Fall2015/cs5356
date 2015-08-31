@@ -100,6 +100,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Halil Akin](people/halil-akin.md)
 * [Tim Delisle](people/tim-delisle.md)
 * [Srinivasa Teja](people/srinivasa-teja.md)
+* [Yanbo Li](people/yanbo-li.md)
 
 Copyright & License
 -------------------
