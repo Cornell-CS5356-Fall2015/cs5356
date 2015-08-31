@@ -93,6 +93,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Edward Wu](people/edward-wu.md)
 * [Jeehyun (Inna) Kim](people/jeehyun-kim.md)
 * [Mengjue Wang](people/mengjue-wang.md)
+* [Gideon Glass](people/gideon-glass.md)
 
 Copyright & License
 -------------------
