@@ -1,8 +1,8 @@
-Sonia Sen
+Karan Bir
 ---------
 
-![](photos/sonia-sen.png)
+![](photos/karan-bir.jpg)
 
-* [LinkedIn](https://www.linkedin.com/in/soniasen)
-* [Github](https://github.com/szsen)
-* [Twitter](https://twitter.com/thesoniasen)
+* [LinkedIn](https://www.linkedin.com/in/karansbir)
+* [Github](https://github.com/karanbir88)
+* [Twitter](https://twitter.com/karansbir)
