@@ -102,6 +102,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Srinivasa Teja](people/srinivasa-teja.md)
 * [Yanbo Li](people/yanbo-li.md)
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
+* [Shimiao Huang](people/shimiao-huang.md)
 
 Copyright & License
 -------------------
