@@ -76,6 +76,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 
 * [Angel Wong](people/angel-wong.md)
 * [Asheesh Agarwal](people/asheesh-agarwal.md)
+* [Ashwin Ramanathan](people/ashwin-ramanathan.md)
 * [Bhagyasri Canumalla](people/bhagyasri-canumalla.md)
 * [Bill Marino](people/bill-marino.md)
 * [Bochen Wang](people/bochen-wang.md)
