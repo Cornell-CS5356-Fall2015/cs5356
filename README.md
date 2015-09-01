@@ -123,7 +123,12 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Tim Delisle](people/tim-delisle.md)
 * [Vivek Sudarsan](people/vivek-sudarsan.md)
 * [Yanbo Li](people/yanbo-li.md)
+<<<<<<< HEAD
 * [Yilin Xu](people/yilin-xu.md)
+=======
+* [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
+* [Murat Akdeniz](people/murat-akdeniz.md)
+>>>>>>> added personal page
 
 Copyright & License
 -------------------
