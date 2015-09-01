@@ -1,5 +1,5 @@
 Inna Shteinbuk
--------------
+--------------
 
 ![](photos/inna-shteinbuk.jpg)
 

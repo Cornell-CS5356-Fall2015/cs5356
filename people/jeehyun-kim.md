@@ -1,4 +1,5 @@
 Jeehyun (Inna) Kim
+------------------
 
 ![](photos/jeehyun-kim.png)
 

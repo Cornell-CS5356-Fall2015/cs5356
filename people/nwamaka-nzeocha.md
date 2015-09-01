@@ -1,5 +1,5 @@
 Nwamaka Nzeocha
-------------------
+---------------
 
 ![](photos/nwamaka-nzeocha.jpg)
 
