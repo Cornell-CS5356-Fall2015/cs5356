@@ -103,6 +103,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Yanbo Li](people/yanbo-li.md)
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Ashwin Ramanathan](people/ashwin-ramanathan.md)
+
 Copyright & License
 -------------------
 
