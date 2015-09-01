@@ -99,8 +99,10 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Brendan Ritter](people/brendan-ritter.md)
 * [Halil Akin](people/halil-akin.md)
 * [Tim Delisle](people/tim-delisle.md)
+* [Srinivasa Teja](people/srinivasa-teja.md)
 * [Yanbo Li](people/yanbo-li.md)
 * [Asheesh Agarwal](people/asheesh-agarwal.md)
+* [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 
 Copyright & License
 -------------------
