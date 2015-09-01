@@ -107,6 +107,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Johan Adami](people/johan-adami.md)
 * [Shimiao Huang](people/shimiao-huang.md)
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
+* [Asheesh Agarwal](people/asheesh-agarwal.md)
 
 Copyright & License
 -------------------
