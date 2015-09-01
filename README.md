@@ -100,6 +100,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Halil Akin](people/halil-akin.md)
 * [Tim Delisle](people/tim-delisle.md)
 * [Yanbo Li](people/yanbo-li.md)
+* [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 
 Copyright & License
 -------------------
