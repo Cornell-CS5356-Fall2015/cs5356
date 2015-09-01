@@ -11,8 +11,8 @@ Essentials
 Can't find this page? Just remember [bit.ly/cs53562015](http://bit.ly/cs53562015).
 
 * [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup)
+* [Logistics, Location, Class, Office Hours](course/logistics.md)
 * [Syllabus](course/syllabus.md)
-* [Logistics](course/logistics.md)
 
 Lectures
 --------
@@ -45,6 +45,8 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Blockchain Voting](projects/blockchain-voting.md)
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md)
+* [GitRank](projects/gitrank.md)
+* [Political Survey App](projects/political-survey-app.md)
 
 People
 ------
@@ -67,6 +69,39 @@ People
 #### Guest Lecturers
 
 Read about guest lectures [here](course/guest-lectures.md).
+
+#### Students
+
+* [Bochen Wang](people/bochen-wang.md)
+* [Daniel Speiser](people/daniel-speiser.md)
+* [Nicolas Joseph](people/nicolas-joseph.md)
+* [Haotian Zhang](people/haotian-zhang.md)
+* [Thomas Yang](people/thomas-yang.md)
+* [Brunno Attorre](people/brunno-attorre.md)
+* [Tianyuan Liu](people/tianyuan-liu.md)
+* [Shreyas Kulkarni](people/shreyas-kulkarni.md)
+* [Liudan Xiao](people/liudan-xiao.md)
+* [Peter Tran](people/peter-tran.md)
+* [Hannah Xue](people/hannah-xue.md)
+* [Sonia Sen](people/sonia-sen.md)
+* [Jocelyn Kong](people/jocelyn-kong.md)
+* [Matt Zhang](people/matt-zhang.md)
+* [Omri Sass](people/omri-sass.md)
+* [Inna Shteinbuk](people/inna-shteinbuk.md)
+* [Bill Marino](people/bill-marino.md)
+* [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
+* [Naveen Parthasarathy](people/naveen-parthasarathy.md)
+* [Edward Wu](people/edward-wu.md)
+* [Jeehyun (Inna) Kim](people/jeehyun-kim.md)
+* [Mengjue Wang](people/mengjue-wang.md)
+* [Gideon Glass](people/gideon-glass.md)
+* [Haiwei Su](people/haiwei-su.md)
+* [Brendan Ritter](people/brendan-ritter.md)
+* [Halil Akin](people/halil-akin.md)
+* [Tim Delisle](people/tim-delisle.md)
+* [Srinivasa Teja](people/srinivasa-teja.md)
+* [Yanbo Li](people/yanbo-li.md)
+* [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 
 Copyright & License
 -------------------
