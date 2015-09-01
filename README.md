@@ -78,6 +78,9 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Haotian Zhang](people/haotian-zhang.md)
 * [Thomas Yang](people/thomas-yang.md)
 * [Brunno Attorre](people/brunno-attorre.md)
+<<<<<<< HEAD
+* [Chloe Eghtebas](people/chloe-eghtebas.md)
+=======
 * [Tianyuan Liu](people/tianyuan-liu.md)
 * [Shreyas Kulkarni](people/shreyas-kulkarni.md)
 * [Liudan Xiao](people/liudan-xiao.md)
@@ -100,6 +103,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Halil Akin](people/halil-akin.md)
 * [Tim Delisle](people/tim-delisle.md)
 * [Yanbo Li](people/yanbo-li.md)
+>>>>>>> 79632539ba32ddb07aaf52d0cd46faa13140fb2a
 
 Copyright & License
 -------------------
