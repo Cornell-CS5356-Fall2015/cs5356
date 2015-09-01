@@ -1,4 +1,4 @@
-Yanbo Li
+Frank Sibo Li
 -------------
 
 ![](photos/frank-li.png)
