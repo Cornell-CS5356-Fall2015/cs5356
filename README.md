@@ -114,6 +114,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Ming Chen](people/ming-chen.md)
 * [Frank Sibo Li](people/frank-li.md)
 * [Julian Ferdman](people/julian-ferdman.md)
+* [Bhagyasri Canumalla](people/bhagyasri-canumalla.md)
 
 Copyright & License
 -------------------
