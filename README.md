@@ -111,6 +111,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [Harrison Gregg](people/harrison-gregg.md)
 * [Dan Feusse](people/dan-feusse.md)
+* [Ming Chen](people/ming-chen.md)
 
 Copyright & License
 -------------------
