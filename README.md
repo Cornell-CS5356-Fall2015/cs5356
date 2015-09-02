@@ -47,6 +47,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md)
 * [GitRank](projects/gitrank.md)
 * [Political Survey App](projects/political-survey-app.md)
+* [Smart Classroom App](projects/smart-classroom.md)
 
 People
 ------
@@ -108,6 +109,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Shimiao Huang](people/shimiao-huang.md)
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Asheesh Agarwal](people/asheesh-agarwal.md)
+* [Dan Feusse](people/dan-feusse.md)
 
 Copyright & License
 -------------------
