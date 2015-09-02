@@ -1,7 +1,7 @@
 Marc Alassad
 ------------------
 
-![](photos/markassad.jpg)
+![](photos/markassad.JPG)
 
 * [Facebook](https://www.facebook.com/mark.assad.773)
 * [Instagram](https://instagram.com/markassad)
