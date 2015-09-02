@@ -88,6 +88,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Dan Feusse](people/dan-feusse.md)
 * [Daniel Speiser](people/daniel-speiser.md)
 * [Edward Wu](people/edward-wu.md)
+* [Francesco Perera](people/francesco-perera.md)
 * [Frank Sibo Li](people/frank-li.md)
 * [Gideon Glass](people/gideon-glass.md)
 * [Haiwei Su](people/haiwei-su.md)
