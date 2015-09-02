@@ -1,6 +1,6 @@
 PraveenKumar
 ------------------
 
-![](photos/praveen-kumar.jpg)
+![](photos/praveen-kumar.JPG)
 
 * www.praveenkumar.co.uk
