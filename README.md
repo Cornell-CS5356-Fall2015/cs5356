@@ -49,6 +49,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Political Survey App](projects/political-survey-app.md)
 * [IntervYouMe](projects/intervyoume.md)
 * [Smart Classroom App](projects/smart-classroom.md)
+* [ETAwake App](projects/etawake-app.md)
 
 People
 ------
@@ -107,6 +108,12 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Naveen Parthasarathy](people/naveen-parthasarathy.md)
 * [Nicolas Joseph](people/nicolas-joseph.md)
 * [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
+<<<<<<< HEAD
+* [Naveen Parthasarathy](people/naveen-parthasarathy.md) 
+* [Edward Wu](people/edward-wu.md)
+* [Jeehyun (Inna) Kim](people/jeehyun-kim.md)
+* [Gideon Glass](people/gideon-glass.md)
+=======
 * [Omri Sass](people/omri-sass.md)
 * [Peter Tran](people/peter-tran.md)
 * [Shimiao Huang](people/shimiao-huang.md)
@@ -118,6 +125,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Tim Delisle](people/tim-delisle.md)
 * [Vivek Sudarsan](people/vivek-sudarsan.md)
 * [Yanbo Li](people/yanbo-li.md)
+>>>>>>> upstream/master
 
 Copyright & License
 -------------------
