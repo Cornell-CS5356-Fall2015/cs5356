@@ -49,6 +49,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Political Survey App](projects/political-survey-app.md)
 * [IntervYouMe](projects/intervyoume.md)
 * [Smart Classroom App](projects/smart-classroom.md)
+* [Datalogue](projects/datalogue.md)
 
 People
 ------
