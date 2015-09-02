@@ -117,6 +117,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Bhagyasri Canumalla](people/bhagyasri-canumalla.md)
 * [Angel Wong](people/angel-wong.md)
 * [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md)
+* [Vivek Sudarsan](people/vivek-sudarsan.md)
 
 Copyright & License
 -------------------
