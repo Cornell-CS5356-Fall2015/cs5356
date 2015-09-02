@@ -75,6 +75,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 
 #### Students
 
+* [Anas Bouzoubaa](people/anas-bouzoubaa.md)
 * [Angel Wong](people/angel-wong.md)
 * [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [Ashwin Ramanathan](people/ashwin-ramanathan.md)
