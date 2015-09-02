@@ -1,5 +1,5 @@
 Julian Ferdman
--------------
+--------------
 
 ![](photos/julian-ferdman.png)
 

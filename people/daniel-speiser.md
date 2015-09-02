@@ -1,5 +1,5 @@
 Daniel Speiser
--------------
+--------------
 
 ![](photos/daniel-speiser.jpg)
 

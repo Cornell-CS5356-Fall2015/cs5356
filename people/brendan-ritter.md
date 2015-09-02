@@ -1,5 +1,5 @@
 Brendan Ritter
--------------
+--------------
 
 ![](photos/brendan-ritter.png)
 

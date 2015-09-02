@@ -1,5 +1,5 @@
 Dan Feusse
--------------
+----------
 
 ![](photos/dan-feusse.jpg)
 

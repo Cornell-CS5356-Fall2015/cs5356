@@ -1,5 +1,5 @@
 Naveen Parthasarathy
--------------
+--------------------
 
 ![Naveen Parthasarathy's photo](photos/naveen-parthasarathy.jpg)
 

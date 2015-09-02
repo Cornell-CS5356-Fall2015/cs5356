@@ -1,5 +1,5 @@
 Srinivasa Teja
-------------------
+--------------
 
 ![](photos/srinivasa-teja.jpg)
 

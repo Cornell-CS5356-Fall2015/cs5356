@@ -1,5 +1,5 @@
 Thomas Yang
-----------------
+-----------
 
 ![](photos/thomas-yang.png)
 

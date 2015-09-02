@@ -1,5 +1,5 @@
 Ming Chen
-----------------
+---------
 
 ![](photos/ming-chen.png)
 

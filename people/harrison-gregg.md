@@ -1,5 +1,5 @@
 Harrison Gregg
--------------
+--------------
 
 ![Harrison Gregg's photo](photos/harrison-gregg.jpg)
 

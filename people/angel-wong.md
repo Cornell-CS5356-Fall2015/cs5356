@@ -1,5 +1,5 @@
 Angel Wong
--------------
+----------
 
 ![](photos/angel-wong.jpg)
 

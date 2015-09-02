@@ -1,5 +1,5 @@
 Yanbo Li
--------------
+--------
 
 ![](photos/yanbo-li.jpg)
 
