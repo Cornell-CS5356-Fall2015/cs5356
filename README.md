@@ -47,6 +47,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md)
 * [GitRank](projects/gitrank.md)
 * [Political Survey App](projects/political-survey-app.md)
+* [IntervYouMe](projects/intervyoume.md)
 * [Smart Classroom App](projects/smart-classroom.md)
 
 People
