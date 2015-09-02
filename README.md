@@ -108,6 +108,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Shimiao Huang](people/shimiao-huang.md)
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Asheesh Agarwal](people/asheesh-agarwal.md)
+* [Harrison Gregg](people/harrison-gregg.md)
 
 Copyright & License
 -------------------
