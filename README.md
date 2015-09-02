@@ -86,6 +86,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Brunno Attorre](people/brunno-attorre.md)
 * [Chloe Eghtebas](people/chloe-eghtebas.md)
 * [Dan Feusse](people/dan-feusse.md)
+* [Dan Safdie](people/dan-safdie.md)
 * [Daniel Speiser](people/daniel-speiser.md)
 * [Edward Wu](people/edward-wu.md)
 * [Frank Sibo Li](people/frank-li.md)
