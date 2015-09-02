@@ -107,6 +107,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Maria Shen](people/maria-shen.md)
 * [Matt Zhang](people/matt-zhang.md)
 * [Mengjue Wang](people/mengjue-wang.md)
+* [Michael Wang](people/michael-wang.md)
 * [Ming Chen](people/ming-chen.md)
 * [Naveen Parthasarathy](people/naveen-parthasarathy.md)
 * [Nicolas Joseph](people/nicolas-joseph.md)
