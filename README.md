@@ -116,6 +116,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Julian Ferdman](people/julian-ferdman.md)
 * [Bhagyasri Canumalla](people/bhagyasri-canumalla.md)
 * [Angel Wong](people/angel-wong.md)
+* [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md)
 
 Copyright & License
 -------------------
