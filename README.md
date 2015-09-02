@@ -98,7 +98,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md)
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Inna Shteinbuk](people/inna-shteinbuk.md)
-* [Jacqueline J.Pang](people/jacqueline-pang.md)
+* [Jacqueline J. Pang](people/jacqueline-pang.md)
 * [Jeehyun (Inna) Kim](people/jeehyun-kim.md)
 * [Jeff Ponnor](people/jeff-ponnor.md)
 * [Jocelyn Kong](people/jocelyn-kong.md)
