@@ -49,6 +49,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Political Survey App](projects/political-survey-app.md)
 * [IntervYouMe](projects/intervyoume.md)
 * [Smart Classroom App](projects/smart-classroom.md)
+* [Datalogue](projects/datalogue.md)
 
 People
 ------
@@ -74,13 +75,16 @@ Read about guest lectures [here](course/guest-lectures.md).
 
 #### Students
 
+* [Anas Bouzoubaa](people/anas-bouzoubaa.md)
 * [Angel Wong](people/angel-wong.md)
 * [Asheesh Agarwal](people/asheesh-agarwal.md)
+* [Ashwin Ramanathan](people/ashwin-ramanathan.md)
 * [Bhagyasri Canumalla](people/bhagyasri-canumalla.md)
 * [Bill Marino](people/bill-marino.md)
 * [Bochen Wang](people/bochen-wang.md)
 * [Brendan Ritter](people/brendan-ritter.md)
 * [Brunno Attorre](people/brunno-attorre.md)
+* [Chloe Eghtebas](people/chloe-eghtebas.md)
 * [Dan Feusse](people/dan-feusse.md)
 * [Daniel Speiser](people/daniel-speiser.md)
 * [Edward Wu](people/edward-wu.md)
@@ -95,10 +99,12 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Inna Shteinbuk](people/inna-shteinbuk.md)
 * [Jeehyun (Inna) Kim](people/jeehyun-kim.md)
+* [Jeff Ponnor](people/jeff-ponnor.md)
 * [Jocelyn Kong](people/jocelyn-kong.md)
 * [Johan Adami](people/johan-adami.md)
 * [Julian Ferdman](people/julian-ferdman.md)
 * [Liudan Xiao](people/liudan-xiao.md)
+* [Maria Shen](people/maria-shen.md)
 * [Matt Zhang](people/matt-zhang.md)
 * [Mengjue Wang](people/mengjue-wang.md)
 * [Ming Chen](people/ming-chen.md)
@@ -107,6 +113,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
 * [Omri Sass](people/omri-sass.md)
 * [Peter Tran](people/peter-tran.md)
+* [Roger Chen](people/roger-chen.md)
 * [Shimiao Huang](people/shimiao-huang.md)
 * [Shreyas Kulkarni](people/shreyas-kulkarni.md)
 * [Sonia Sen](people/sonia-sen.md)
@@ -116,6 +123,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Tim Delisle](people/tim-delisle.md)
 * [Vivek Sudarsan](people/vivek-sudarsan.md)
 * [Yanbo Li](people/yanbo-li.md)
+* [Yilin Xu](people/yilin-xu.md)
 
 Copyright & License
 -------------------
