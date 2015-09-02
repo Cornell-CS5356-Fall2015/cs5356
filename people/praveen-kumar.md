@@ -1,4 +1,4 @@
-praveen kumar
+Praveen Kumar
 ------------------
 
 ![](photos/praveen-kumar.png)
