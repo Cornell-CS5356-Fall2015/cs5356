@@ -125,6 +125,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Yanbo Li](people/yanbo-li.md)
 * [Yilin Xu](people/yilin-xu.md)
 * [Yihan Chen](people/yihan-chen.md)
+
 Copyright & License
 -------------------
 
