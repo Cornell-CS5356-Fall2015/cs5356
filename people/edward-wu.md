@@ -1,5 +1,6 @@
 Edward Wu
---------
+---------
+
 ![](photos/edward-wu.jpg)
 
 * [GitHub](https://github.com/wuedward)
