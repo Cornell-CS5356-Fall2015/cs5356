@@ -112,6 +112,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Harrison Gregg](people/harrison-gregg.md)
 * [Dan Feusse](people/dan-feusse.md)
 * [Ming Chen](people/ming-chen.md)
+* [Frank Sibo Li](people/frank-li.md)
 
 Copyright & License
 -------------------
