@@ -1,7 +1,7 @@
 Daniel Doubrovkine
 ------------------
 
-![](photos/daniel.jpg)
+![](photos/daniel-doubrovkine.jpg)
 
 * [@dblockdotorg on Twitter](https://twitter.com/dblockdotorg)
 * [code.dblock.org](http://code.dblock.org)

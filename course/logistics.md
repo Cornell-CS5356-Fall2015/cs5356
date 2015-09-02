@@ -9,4 +9,4 @@ Logistics
 
 * [Adam](/people/adam-fleming.md): TBD
 * [Daniel](/people/daniel-doubrovkine.md): TBD
-* [Karn](/people/karn-seth.md): Thursdays, 2:30-3:30 PM
+* [Karn](/people/karn-seth.md): Thursdays, 2:30-3:30 PM, Baron (3rd Floor, Cornell Tech)

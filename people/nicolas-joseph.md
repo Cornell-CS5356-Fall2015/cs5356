@@ -1,5 +1,5 @@
 Nicolas Joseph
--------------
+--------------
 
 ![Nicolas Joseph's photo](photos/nicolas-joseph.jpg)
 
