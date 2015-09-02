@@ -102,6 +102,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Johan Adami](people/johan-adami.md)
 * [Julian Ferdman](people/julian-ferdman.md)
 * [Liudan Xiao](people/liudan-xiao.md)
+* [Maria Shen](people/maria-shen.md)
 * [Matt Zhang](people/matt-zhang.md)
 * [Mengjue Wang](people/mengjue-wang.md)
 * [Ming Chen](people/ming-chen.md)
