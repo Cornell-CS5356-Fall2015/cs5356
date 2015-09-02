@@ -98,6 +98,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Inna Shteinbuk](people/inna-shteinbuk.md)
 * [Jeehyun (Inna) Kim](people/jeehyun-kim.md)
+* [Jeff Ponnor](people/jeff-ponnor.md)
 * [Jocelyn Kong](people/jocelyn-kong.md)
 * [Johan Adami](people/johan-adami.md)
 * [Julian Ferdman](people/julian-ferdman.md)
