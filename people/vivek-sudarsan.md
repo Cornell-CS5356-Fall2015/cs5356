@@ -3,4 +3,4 @@ Vivek Sudarsan
 
 ![](photos/vivek-sudarsan.png)
 
-* [LinkedIn](www.linkedin.com/in/viveksudars)
+[LinkedIn](https://www.linkedin.com/in/viveksudars)
