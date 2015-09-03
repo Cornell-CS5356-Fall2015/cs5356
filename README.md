@@ -123,6 +123,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Omri Sass](people/omri-sass.md)
 * [Peter Tran](people/peter-tran.md)
 * [Praveen Gupta](people/praveen-gupta.md)
+* [Praveen Kumar](people/praveen-kumar.md)
 * [Rishav Kanoria](people/rishav-kanoria.md)
 * [Roger Chen](people/roger-chen.md)
 * [Shimiao Huang](people/shimiao-huang.md)
@@ -135,7 +136,6 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Vivek Sudarsan](people/vivek-sudarsan.md)
 * [Yanbo Li](people/yanbo-li.md)
 * [Yilin Xu](people/yilin-xu.md)
-
 Copyright & License
 -------------------
 
