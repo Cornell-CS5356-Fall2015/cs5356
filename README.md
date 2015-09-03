@@ -18,10 +18,10 @@ Lectures
 --------
 
 1.  26-Aug: [Developer Culture and Workflow](course/01-developer-culture-and-workflow.md)         [@dblock](/people/daniel-doubrovkine.md)
-2.  02-Sep: [Turning Ideas into Software](course/02-turning-ideas-into-software.md)               [@amfleming](/people/adam-fleming.md)
-3.  09-Sep: [Infrastructure](course/03-infrastructure.md)                                         [@amfleming](/people/adam-fleming.md)
-4.  16-Sep: [Development Stacks](course/04-development-stacks.md)                                 [@amfleming](/people/adam-fleming.md)
-5.  23-Sep: [Backend Services](course/05-backend-services.md)                                     [@amfleming](/people/adam-fleming.md)
+2.  02-Sep: [Turning Ideas into Software](course/02-turning-ideas-into-software.pdf)              [@amfleming](/people/adam-fleming.md)
+3.  09-Sep: [Development Stacks](course/03-development-stacks.md)                                 [@amfleming](/people/adam-fleming.md)
+4.  16-Sep: [Backend Services](course/04-backend-services.md)                                     [@amfleming](/people/adam-fleming.md)
+5.  23-Sep: [Infrastructure](course/05-infrastructure.md)                                         [@amfleming](/people/adam-fleming.md)
 6.  30-Sep: [Databases and Storage](course/06-databases-and-storage.md)                           [@dblock](/people/daniel-doubrovkine.md)
 7.  07-Oct: [Data Pipelines](course/07-data-pipelines.md)                                         [@dblock](/people/daniel-doubrovkine.md)
 8.  14-Oct: [Mobile](course/08-mobile.md)                                                         [@dblock](/people/daniel-doubrovkine.md)
