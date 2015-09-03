@@ -88,6 +88,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Chloe Eghtebas](people/chloe-eghtebas.md)
 * [Claire Opila](people/claire-opila.md)
 * [Dan Feusse](people/dan-feusse.md)
+* [Dan Safdie](people/dan-safdie.md)
 * [Daniel Speiser](people/daniel-speiser.md)
 * [Edward Wu](people/edward-wu.md)
 * [Francesco Perera](people/francesco-perera.md)
