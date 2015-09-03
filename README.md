@@ -50,6 +50,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [IntervYouMe](projects/intervyoume.md)
 * [Smart Classroom App](projects/smart-classroom.md)
 * [Datalogue](projects/datalogue.md)
+* [Screencast Platform](projects/screencast-platform.md)
 
 People
 ------
