@@ -18,7 +18,7 @@ Lectures
 --------
 
 1.  26-Aug: [Developer Culture and Workflow](course/01-developer-culture-and-workflow.md)         [@dblock](/people/daniel-doubrovkine.md)
-2.  02-Sep: [Turning Ideas into Software](course/02-turning-ideas-into-software.md)               [@amfleming](/people/adam-fleming.md)
+2.  02-Sep: [Turning Ideas into Software](course/02-turning-ideas-into-software.pdf)              [@amfleming](/people/adam-fleming.md)
 3.  09-Sep: [Development Stacks](course/03-development-stacks.md)                                 [@amfleming](/people/adam-fleming.md)
 4.  16-Sep: [Backend Services](course/04-backend-services.md)                                     [@amfleming](/people/adam-fleming.md)
 5.  23-Sep: [Infrastructure](course/05-infrastructure.md)                                         [@amfleming](/people/adam-fleming.md)
