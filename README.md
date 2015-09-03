@@ -85,6 +85,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Brendan Ritter](people/brendan-ritter.md)
 * [Brunno Attorre](people/brunno-attorre.md)
 * [Chloe Eghtebas](people/chloe-eghtebas.md)
+* [Claire Opila](people/claire-opila.md)
 * [Dan Feusse](people/dan-feusse.md)
 * [Daniel Speiser](people/daniel-speiser.md)
 * [Edward Wu](people/edward-wu.md)
