@@ -111,6 +111,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Mengjue Wang](people/mengjue-wang.md)
 * [Michael Wang](people/michael-wang.md)
 * [Ming Chen](people/ming-chen.md)
+* [Murat Akdeniz](people/murat-akdeniz.md)
 * [Naveen Parthasarathy](people/naveen-parthasarathy.md)
 * [Nicolas Joseph](people/nicolas-joseph.md)
 * [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
