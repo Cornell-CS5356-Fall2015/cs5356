@@ -108,6 +108,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Karan Bir] (people/karan-bir.md)
 * [Liudan Xiao](people/liudan-xiao.md)
 * [Maria Shen](people/maria-shen.md)
+* [Mark Assad](people/mark-assad.md)
 * [Matt Zhang](people/matt-zhang.md)
 * [Mengjue Wang](people/mengjue-wang.md)
 * [Michael Wang](people/michael-wang.md)
