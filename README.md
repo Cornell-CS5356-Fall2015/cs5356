@@ -136,6 +136,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Vivek Sudarsan](people/vivek-sudarsan.md)
 * [Yanbo Li](people/yanbo-li.md)
 * [Yilin Xu](people/yilin-xu.md)
+
 Copyright & License
 -------------------
 
