@@ -51,6 +51,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Smart Classroom App](projects/smart-classroom.md)
 * [Datalogue](projects/datalogue.md)
 * [Screencast Platform](projects/screencast-platform.md)
+* [Automated News Platform](projects/automated-news-platform.md) - **Team:** [Bill Marino](people/bill-marino.md)
 
 People
 ------
