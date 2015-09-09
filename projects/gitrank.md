@@ -11,4 +11,7 @@ There are some services that are emerging around this market like [StackShare](h
 [Libraries.io](https://libraries.io/),
 [githubRanking.com](githubranking.com), [Product Hunt](http://www.producthunt.com/) ... Let's make something in between those, more innovative and easier to use.
 
+## Team
+[Brunno Attorre](../people/brunno-attorre.md), [Karan Bir](../people/karan-bir.md), [Nicolas Joseph](../people/nicolas-joseph.md)
+
 **Extensive information about the project can be found [here](https://github.com/gitlinks/github-rank-project)**
