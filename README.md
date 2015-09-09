@@ -134,6 +134,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Sasinda Rukshan](people/sasinda-rukshan.md)
 * [Shimiao Huang](people/shimiao-huang.md)
 * [Shreyas Kulkarni](people/shreyas-kulkarni.md)
+* [Sindhu Banavara Ravindra](people/sindhu-banavara-ravindra.md)
 * [Sonia Sen](people/sonia-sen.md)
 * [Srinivasa Teja](people/srinivasa-teja.md)
 * [Thomas Yang](people/thomas-yang.md)
