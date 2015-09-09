@@ -55,6 +55,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Automated News Platform](projects/automated-news-platform.md) - **Team:** [Bill Marino](people/bill-marino.md)
 * [Sleep Regulation App](projects/sleep-regulator.md)
 * [IT Helpouts](projects/it-helpouts.md) - **Team:** [Johan Adami](people/johan-adami.md), [Maria Shen](people/maria-shen.md), [Hannah Xue](people/hannah-xue.md)
+* [Game Master](projects/game-master.md) - **Team:** [Thomas Yang](people/thomas-yang.md), [Ming Chen](people/ming-chen.md), [Matt Zhang](people/matt-zhang.md)
 
 People
 ------
