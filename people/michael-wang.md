@@ -1,4 +1,4 @@
-Mengjue Wang
+Michael Wang
 -------------
 
 ![Michael Wang's photo](photos/michael-wang.jpg)
