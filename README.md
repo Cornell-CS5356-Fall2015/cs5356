@@ -59,6 +59,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Social Story Builder](projects/social-story-builder.md) - **Team:** [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)
 * [Project Deets](projects/project-deets.md) - **Team:** [Michael Wang](people/michael-wang.md), [Vivek Sudarsan](people/vivek-sudarsan.md), [Julian Ferdman](people/julian-ferdman.md)
 * [Social Timeline](projects/social-timeline.md) - **Team:** [Inna Shteinbuk](people/inna-shteinbuk.md), [Jocelyn Kong](people/jocelyn-kong.md)
+* [Wanderluster](projects/wanderluster.md) - **Team:** [Shimiao Huang](people/shimiao-huang.md), [Yanbo Li](people/yanbo-li.md), [Liudan Xiao](people/liudan-xiao.md)
 
 People
 ------
