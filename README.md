@@ -148,6 +148,8 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Vivek Sudarsan](people/vivek-sudarsan.md)
 * [Yanbo Li](people/yanbo-li.md)
 * [Yilin Xu](people/yilin-xu.md)
+* [Adebisi Oje](people/adebisi-oje.md)
+
 
 Copyright & License
 -------------------
@@ -157,5 +159,4 @@ Copyright & License
 All source code is licensed under the [MIT License](MIT-LICENSE.txt).
 
 All content is licensed under the [Creative Commons Attribution 4.0 International License](CC-BY-4.0-LICENSE).
-
 <a href='https://creativecommons.org/licenses/by/4.0'>![](https://i.creativecommons.org/l/by/4.0/88x31.png)</a>
