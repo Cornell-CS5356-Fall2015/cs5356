@@ -1,2 +1,2 @@
- - microservice vs monolithic
- - PaaS
+ - Microservices vs Monolithic
+ - Python Code-Along
