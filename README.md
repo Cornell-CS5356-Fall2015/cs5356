@@ -64,6 +64,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [MeetMe](projects/meetme.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
 * [Smart Alarm](projects/smart-alarm.md) - **Team:** [Gideon Glass](people/gideon-glass.md), [Edward Wu](people/edward-wu.md)
 * [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md),[Naveen Parthasarathy](people/naveen-parthasarathy.md),[Ashwin Ramanathan](people/ashwin-ramanathan.md)
+* [Cuisine](projects/cuisine.md) - **Team:** [Bochen Wang](people/bochen-wang.md), [Tianyuan Liu](people/tianyuan-liu.md), [Yihan Chen](people/yihan-chen.md)
 
 People
 ------
