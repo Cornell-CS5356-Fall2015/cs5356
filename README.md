@@ -41,6 +41,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 
 * [Two Star Car Service](projects/two-star-car-service.md)
 * [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
+* [Blockchain Based Remittance API](projects/blockchain-remittance-api.md) - **Team:** [Nwamaka Nzeocha](people/nwamaka-nzeocha.md), [Jeff Ponnor](people/jeff-ponnor.md), [Murat Akdeniz](people/murat-akdeniz.md)
 * [Blockchain Lottery and Gambling](projects/blockchain-lottery-and-gambling.md) - **Team:** [Harrison Gregg](people/harrison-gregg.md), [Haiwei Su](people/haiwei-su.md), [Rishav Kanoria](people/rishav-kanoria.md)
 * [Blockchain Voting](projects/blockchain-voting.md)
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
