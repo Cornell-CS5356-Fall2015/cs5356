@@ -23,11 +23,11 @@ Students can do a project individually or in groups. Each group must have a maxi
 
 #### 16-Sep: Deadline for a First Story
 
-A first story is something useful that you can implement in a week. Students work with TAs and instructors on the definition of such a story.
+A first story is something useful that you can implement in a week. Students work with TAs and instructors on the definition of such a story, but don't need to implement it quite yet.
 
 #### 23-Sep: Demo a First Story and Discuss MVP
 
-Students demonstrate a working product that implements the story in front of class and propose some ideas of what an MVP for the product could look like.
+Students demonstrate a working product that implements the first story in front of class and propose some ideas of what an MVP for the product could look like.
 
 #### 7-Oct: MVP
 

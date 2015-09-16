@@ -18,7 +18,7 @@ Lectures
 --------
 
 1.  26-Aug: [Developer Culture and Workflow](course/01-developer-culture-and-workflow.md)         [@dblock](/people/daniel-doubrovkine.md)
-2.  02-Sep: [Turning Ideas into Software](course/02-turning-ideas-into-software.pdf)              [@amfleming](/people/adam-fleming.md)
+2.  02-Sep: [Turning Ideas into Software](course/02-turning-ideas-into-software.md)               [@amfleming](/people/adam-fleming.md)
 3.  09-Sep: [Development Stacks](course/03-development-stacks.md)                                 [@amfleming](/people/adam-fleming.md)
 4.  16-Sep: [Backend Services](course/04-backend-services.md)                                     [@amfleming](/people/adam-fleming.md)
 5.  23-Sep: [Infrastructure](course/05-infrastructure.md)                                         [@amfleming](/people/adam-fleming.md)
@@ -41,10 +41,12 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 
 * [Two Star Car Service](projects/two-star-car-service.md)
 * [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
+* [Blockchain Based Remittance API](projects/blockchain-remittance-api.md) - **Team:** [Nwamaka Nzeocha](people/nwamaka-nzeocha.md), [Jeff Ponnor](people/jeff-ponnor.md), [Murat Akdeniz](people/murat-akdeniz.md)
 * [Blockchain Lottery and Gambling](projects/blockchain-lottery-and-gambling.md) - **Team:** [Harrison Gregg](people/harrison-gregg.md), [Haiwei Su](people/haiwei-su.md), [Rishav Kanoria](people/rishav-kanoria.md)
 * [Blockchain Voting](projects/blockchain-voting.md)
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md)
+	* **Team 1:** [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [GitRank](projects/gitrank.md) - **Team:** [Karan Bir](people/karan-bir.md), [Brunno Attorre](people/brunno-attorre.md), [Nicolas Joseph](people/nicolas-joseph.md)
 * [Political Survey App](projects/political-survey-app.md)
 * [IntervYouMe](projects/intervyoume.md)
@@ -52,6 +54,16 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Datalogue](projects/datalogue.md)
 * [Screencast Platform](projects/screencast-platform.md)
 * [Automated News Platform](projects/automated-news-platform.md) - **Team:** [Bill Marino](people/bill-marino.md)
+* [Sleep Regulation App](projects/sleep-regulator.md) - **Team:** [Claire Opila](people/claire-opila.md), [Francesco Perera](people/francesco-perera.md), [Praveen Gupta](people/praveen-gupta.md) 
+* [IT Helpouts](projects/it-helpouts.md) - **Team:** [Johan Adami](people/johan-adami.md), [Maria Shen](people/maria-shen.md), [Hannah Xue](people/hannah-xue.md)
+* [Game Master](projects/game-master.md) - **Team:** [Thomas Yang](people/thomas-yang.md), [Ming Chen](people/ming-chen.md), [Matt Zhang](people/matt-zhang.md)
+* [Social Story Builder](projects/social-story-builder.md) - **Team:** [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)
+* [Project Deets](projects/project-deets.md) - **Team:** [Michael Wang](people/michael-wang.md), [Vivek Sudarsan](people/vivek-sudarsan.md), [Julian Ferdman](people/julian-ferdman.md)
+* [Social Timeline](projects/social-timeline.md) - **Team:** [Inna Shteinbuk](people/inna-shteinbuk.md), [Jocelyn Kong](people/jocelyn-kong.md)
+* [Wanderluster](projects/wanderluster.md) - **Team:** [Shimiao Huang](people/shimiao-huang.md), [Yanbo Li](people/yanbo-li.md), [Liudan Xiao](people/liudan-xiao.md)
+* [MeetMe](projects/meetme.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
+* [Smart Alarm](projects/smart-alarm.md) - **Team:** [Gideon Glass](people/gideon-glass.md), [Edward Wu](people/edward-wu.md)
+* [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md),[Naveen Parthasarathy](people/naveen-parthasarathy.md),[Ashwin Ramanathan](people/ashwin-ramanathan.md)
 
 People
 ------
@@ -131,6 +143,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Sasinda Rukshan](people/sasinda-rukshan.md)
 * [Shimiao Huang](people/shimiao-huang.md)
 * [Shreyas Kulkarni](people/shreyas-kulkarni.md)
+* [Sindhu Banavara Ravindra](people/sindhu-banavara-ravindra.md)
 * [Sonia Sen](people/sonia-sen.md)
 * [Srinivasa Teja](people/srinivasa-teja.md)
 * [Thomas Yang](people/thomas-yang.md)
@@ -139,6 +152,8 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Vivek Sudarsan](people/vivek-sudarsan.md)
 * [Yanbo Li](people/yanbo-li.md)
 * [Yilin Xu](people/yilin-xu.md)
+* [Yihan Chen](people/yihan-chen.md)
+* [Zaid Haque](people/zaid-haque.md)
 
 Copyright & License
 -------------------
