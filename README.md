@@ -48,6 +48,9 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 	* **Team 1:** [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [GitRank](projects/gitrank.md) - **Team:** [Karan Bir](people/karan-bir.md), [Brunno Attorre](people/brunno-attorre.md), [Nicolas Joseph](people/nicolas-joseph.md)
 * [Political Survey App](projects/political-survey-app.md)
+<<<<<<< HEAD
+* [Smart Classroom App](projects/smart-classroom.md)
+=======
 * [IntervYouMe](projects/intervyoume.md)
 * [Smart Classroom App](projects/smart-classroom.md)
 * [Datalogue](projects/datalogue.md)
@@ -62,6 +65,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Wanderluster](projects/wanderluster.md) - **Team:** [Shimiao Huang](people/shimiao-huang.md), [Yanbo Li](people/yanbo-li.md), [Liudan Xiao](people/liudan-xiao.md)
 * [MeetMe](projects/meetme.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
 * [Smart Alarm](projects/smart-alarm.md) - **Team:** [Gideon Glass](people/gideon-glass.md), [Edward Wu](people/edward-wu.md)
+>>>>>>> master
 
 People
 ------
@@ -140,6 +144,11 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Ruiheng Wang] (people/ruiheng-wang.md)
 * [Sasinda Rukshan](people/sasinda-rukshan.md)
 * [Shimiao Huang](people/shimiao-huang.md)
+<<<<<<< HEAD
+* [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
+* [Asheesh Agarwal](people/asheesh-agarwal.md)
+* [Dan Feusse](people/dan-feusse.md)
+=======
 * [Shreyas Kulkarni](people/shreyas-kulkarni.md)
 * [Sindhu Banavara Ravindra](people/sindhu-banavara-ravindra.md)
 * [Sonia Sen](people/sonia-sen.md)
@@ -152,6 +161,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Yilin Xu](people/yilin-xu.md)
 * [Yihan Chen](people/yihan-chen.md)
 * [Zaid Haque](people/zaid-haque.md)
+>>>>>>> master
 
 Copyright & License
 -------------------
