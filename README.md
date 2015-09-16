@@ -49,7 +49,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 	* **Team 1:** [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [GitRank](projects/gitrank.md) - **Team:** [Karan Bir](people/karan-bir.md), [Brunno Attorre](people/brunno-attorre.md), [Nicolas Joseph](people/nicolas-joseph.md)
 * [Political Survey App](projects/political-survey-app.md)
-* [IntervYouMe](projects/intervyoume.md)
+* [IntervYouMe](projects/intervyoume.md) - **Team:** [Daniel Speiser](people/daniel-speiser.md), [Jean-Charles Gasche](people/jean-charles-gasche.md)
 * [Smart Classroom App](projects/smart-classroom.md)
 * [Datalogue](projects/datalogue.md)
 * [Screencast Platform](projects/screencast-platform.md)
