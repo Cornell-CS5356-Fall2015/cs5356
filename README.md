@@ -51,7 +51,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Political Survey App](projects/political-survey-app.md)
 * [IntervYouMe](projects/intervyoume.md)
 * [Smart Classroom App](projects/smart-classroom.md)
-* [Datalogue](projects/datalogue.md)
+* [Datalogue](projects/datalogue.md) - **Team:** [Tim Delisle](people/tim-delisle.md), [Omri Sass](people/omri-sass.md), [Chloe Eghtebas](people/chloe-eghtebas.md)  
 * [Screencast Platform](projects/screencast-platform.md)
 * [Automated News Platform](projects/automated-news-platform.md) - **Team:** [Bill Marino](people/bill-marino.md)
 * [Sleep Regulation App](projects/sleep-regulator.md) - **Team:** [Claire Opila](people/claire-opila.md), [Francesco Perera](people/francesco-perera.md), [Praveen Gupta](people/praveen-gupta.md) 
