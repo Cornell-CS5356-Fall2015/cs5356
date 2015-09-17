@@ -67,7 +67,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md),[Naveen Parthasarathy](people/naveen-parthasarathy.md),[Ashwin Ramanathan](people/ashwin-ramanathan.md)
 * [Cuisine](projects/cuisine.md) - **Team:** [Bochen Wang](people/bochen-wang.md), [Tianyuan Liu](people/tianyuan-liu.md), [Yihan Chen](people/yihan-chen.md)
 * [Answer Me](projects/answer-me.md) - **Team:** [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md), [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
-* [Daily Kitten](projects/daily-kitten.md) - **Team:** [Haotian Zhang](people/haotian-zhang.md), [Mengjue Wang](people/mengjue-wang.md)
+* [Daily Kitten](projects/daily-kitten.md) - **Team:** [Haotian Zhang](people/haotian-zhang.md), [Mengjue Wang](people/mengjue-wang.md), [Jeehyun Kim](people/jeehyun-kim.md)
 
 People
 ------
