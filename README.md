@@ -8,7 +8,7 @@ CS 5356: Startup Systems Design and Engineering
 Essentials
 ----------
 
-Can't find this page? Just remember [bit.ly/cs53562015](http://bit.ly/cs53562015).
+Can't find this page? Just remember [bit.ly/cs53562015](Phttp://bit.ly/cs53562015).
 
 * [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup)
 * [Logistics, Location, Class, Office Hours](course/logistics.md)
@@ -63,7 +63,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Wanderluster](projects/wanderluster.md) - **Team:** [Shimiao Huang](people/shimiao-huang.md), [Yanbo Li](people/yanbo-li.md), [Liudan Xiao](people/liudan-xiao.md)
 * [MeetMe](projects/meetme.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
 * [Smart Alarm](projects/smart-alarm.md) - **Team:** [Gideon Glass](people/gideon-glass.md), [Edward Wu](people/edward-wu.md)
-* [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md),[Naveen Parthasarathy](people/naveen-parthasarathy.md),[Ashwin Ramanathan](people/ashwin-ramanathan.md)
+* [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md), [Naveen Parthasarathy](people/naveen-parthasarathy.md), [Ashwin Ramanathan](people/ashwin-ramanathan.md)
 * [Cuisine](projects/cuisine.md) - **Team:** [Bochen Wang](people/bochen-wang.md), [Tianyuan Liu](people/tianyuan-liu.md), [Yihan Chen](people/yihan-chen.md)
 * [Answer Me](projects/answer-me.md) - **Team:** [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md), [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Daily Kitten](projects/daily-kitten.md) - **Team:** [Haotian Zhang](people/haotian-zhang.md), [Mengjue Wang](people/mengjue-wang.md), [Jeehyun Kim](people/jeehyun-kim.md)
