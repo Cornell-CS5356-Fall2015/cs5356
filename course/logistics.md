@@ -8,7 +8,7 @@ Logistics
 ### Office Hours
 
 * [Adam](/people/adam-fleming.md): TBD
-* [Daniel](/people/daniel-doubrovkine.md): TBD
+* [Daniel](/people/daniel-doubrovkine.md): Fridays, 4:30-5:30 PM, Artsy, 401 Broadway, 25th Floor @ Canal St.
 * [Karn](/people/karn-seth.md): Thursdays, 2:30-3:30 PM, Baron (3rd Floor, Cornell Tech)
 
 ### Attendance
