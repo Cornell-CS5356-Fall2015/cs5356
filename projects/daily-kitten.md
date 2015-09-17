@@ -10,4 +10,4 @@ The challenge of our project is how to rank cats images. There are some factors 
 
 ### Team
 
-[Haotian Zhang](/people/haotian-zhang.md), [Mengjue Wang](/people/mengjue-wang.md)
+[Haotian Zhang](/people/haotian-zhang.md), [Mengjue Wang](/people/mengjue-wang.md), [Jeehyun Kim](/people/jeehyun-kim.md)
