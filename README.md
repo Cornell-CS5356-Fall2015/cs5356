@@ -85,6 +85,7 @@ People
 #### Teaching Assistants
 
 * [Karn Seth](people/karn-seth.md)
+* [David Gochfeld](people/david-gochfeld.md)
 
 #### Guest Lecturers
 
