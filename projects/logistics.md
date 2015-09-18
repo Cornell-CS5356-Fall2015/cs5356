@@ -7,10 +7,9 @@ Students collaborate on an ambitious software project, a technology startup, fro
 
 ### Submitting Deliverables
 
-The following schedule lists a few intermediate deliverables.  Add them to your project page and submit a pull request before Friday the week they are due.  Each deliverable is worth 1 point towards your final grade.
+The following schedule lists a few intermediate deliverables.  Add them to your project page and submit a pull request before Friday the week they are due. Each deliverable is worth 1 point towards your final grade.
 
-Your First Story and MVP proposals should be added as content directly on the project page, and you should include a link to your First Story demo and your Investor Pitch presentation and demo.
-
+Your First Story and MVP proposals should be added to a project management system linked from the project page, and you should include a link to your First Story demo and your Investor Pitch presentation and demo.
 
 ### Important Dates
 
