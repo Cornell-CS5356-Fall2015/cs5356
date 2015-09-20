@@ -13,3 +13,7 @@ We will record, with users' permission, the final result and possible data as mu
 ### Team
 
 [Thomas Yang](/people/thomas-yang.md), [Ming Chen](/people/ming-chen.md), [Matt Zhang](/people/matt-zhang.md)
+
+### Product Management
+
+https://trello.com/b/XGlWnY5g/product
