@@ -7,4 +7,11 @@ Users often set their alarm clocks expecting their morning routine and commute t
 We propose to create an alarm app that will periodically check your morning commute and estimate the amount of time your commute will take and wake you up with enough time to make your appointments.
 
 ###Team
-Edward Wu, Gideon Glass
+[Edward Wu](../people/edward-wu.md)
+[Gideon Glass](../people/gideon-glass.md)
+
+###First Story
+User creates profile (email and password) and inputs times for routine morning activities (e.g. breakfast, exercise, shower).
+
+###Project Management Software
+[waffle.io](https://waffle.io/gidglass/smart-alarm)
