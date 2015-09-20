@@ -68,6 +68,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Answer Me](projects/answer-me.md) - **Team:** [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md), [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Daily Kitten](projects/daily-kitten.md) - **Team:** [Haotian Zhang](people/haotian-zhang.md), [Mengjue Wang](people/mengjue-wang.md), [Jeehyun Kim](people/jeehyun-kim.md)
 * [Gift Crowdfunding](projects/gift-crowdfunding.md) - **Team:** [Shreyas Kulkarni](people/shreyas-kulkarni.md), [Frank Li](people/frank-li.md), [Angel Wong](people/angel-wong.md)
+* [Job Tracker](projects/job-tracker.md) - **Team:** [Srinivasa Teja](people/srinivasa-teja.md), [Bhagyasri Canumalla](people/bhagyasri-canumalla.md), [Sindhu Banavara Ravindra](people/sindhu-banavara-ravindra.md)
 
 People
 ------
