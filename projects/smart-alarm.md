@@ -11,7 +11,8 @@ We propose to create an alarm app that will periodically check your morning comm
 [Gideon Glass](../people/gideon-glass.md)
 
 ###Project Management Software
-[waffle.io](https://waffle.io/gidglass/smart-alarm)
+* [GitHub](https://github.com/gidglass/smart-alarm)
+* [waffle.io](https://waffle.io/gidglass/smart-alarm)
 
 ###First Story
 [Issue #1 - "Implement First User Story"](https://waffle.io/gidglass/smart-alarm/cards/55fab784f4d0f23900bf42dd)
