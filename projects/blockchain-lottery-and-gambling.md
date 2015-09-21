@@ -16,3 +16,7 @@ There are many sites that allow Bitcoin gambling, like Satoshibet, and making on
 ### Project Management
 
 We are using [waffle.io](https://waffle.io/HarrisonGregg/BlockchainGambling) for our project management tool.
+
+### First Story
+
+Our first story is [here](https://waffle.io/HarrisonGregg/BlockchainGambling/cards/560063f286f0de1100334ac6) on waffle.io.
