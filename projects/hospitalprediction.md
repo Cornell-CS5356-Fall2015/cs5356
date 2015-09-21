@@ -10,3 +10,6 @@ A tool to predict who is going to get admitted in hospital in next 12 months and
 
 ## Team
 [Praveen Kumar](../people/praveen-kumar.md)
+
+#Project Management Software
+[Trello](https://trello.com/b/0exzL1xw/hospital-prediction-tool)
