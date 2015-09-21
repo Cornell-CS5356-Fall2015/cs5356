@@ -9,9 +9,14 @@ While taking classes in Ithaca during the summer, participation was a significan
 
 This made me realize classrooms haven't changed except for maybe the projector for a very long time, and utilize no technology.
 
-### Challenge
 
-To make a 'smart classroom' leveraging technology such as beacons and cameras (facial recognition, eye direction, body movements, facial expressions, etc) to change the way participation is graded, teachers get feedback, etc etc
+### Story:
+(For September 23rd)
+Have a simulation where you walk into a room with a beacon and after a certain amount of time you will be sent a push notification.
+
+
+### Challenge:
+To initially make an application utilizing beacons to track and validate attendance for a teacher, and allow the teacher to push a question to all students as a way to grade participation as well as confirm all students are understanding material taught in class.
 
 ### Scenario
 
