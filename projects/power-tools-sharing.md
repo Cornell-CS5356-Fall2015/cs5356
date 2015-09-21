@@ -15,6 +15,8 @@ Many other things can be shared in similar ways beyond power tools!
 
 ### Project Management
 * [Project Dashboard](https://waffle.io/asheesh-agarwal/Power-Tools-Sharing)
+  * [First Story](https://github.com/asheesh-agarwal/Power-Tools-Sharing/issues/4)
+
 
 ### Team Member
 * [Asheesh Agarwal](../people/asheesh-agarwal.md)
