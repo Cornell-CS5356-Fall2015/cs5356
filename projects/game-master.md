@@ -10,6 +10,14 @@ We want to play a middle role between actuall game and the host, providing a uni
 
 We will record, with users' permission, the final result and possible data as much as possible. We may do datamining on what we collect and also, may build APIs for these data.
 
+### First Story
+
+Set up the back-end development environment. We are using flask framework to build the server. Implement the user login/register function that users can register and login on our website.
+
 ### Team
 
 [Thomas Yang](/people/thomas-yang.md), [Ming Chen](/people/ming-chen.md), [Matt Zhang](/people/matt-zhang.md)
+
+### Product Management
+
+https://trello.com/b/XGlWnY5g/product
