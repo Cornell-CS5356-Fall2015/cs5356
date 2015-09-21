@@ -11,3 +11,9 @@ The challenge of our project is how to rank cats images. There are some factors 
 ### Team
 
 [Haotian Zhang](/people/haotian-zhang.md), [Mengjue Wang](/people/mengjue-wang.md), [Jeehyun Kim](/people/jeehyun-kim.md)
+
+### First User Story
+Our first user story: [Issue #1](https://github.com/haotianz/daily-kitten/issues/1)
+
+### Project Management
+We are using [Trello](https://trello.com/b/HRdQyjsC/daily-kitten) as project management tool.

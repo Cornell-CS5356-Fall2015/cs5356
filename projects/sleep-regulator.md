@@ -19,3 +19,7 @@ There are two major features that differentiate our idea from any other sleep/al
 
 As a second phase, we would like to take into account any wakefulness in the middle of the night and automatically add extra time to compensate for this lost sleep. 
 As a third phase, we would like to wake individuals when they are in their lightest sleep after they have reached a target amount of sleep or have reached a wake up deadline. 
+
+### Project Management
+
+* [Trello](https://trello.com/b/oEhRQmVt)

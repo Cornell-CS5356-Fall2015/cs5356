@@ -9,6 +9,10 @@ Social stories are an educational tool used by teachers of developmentally disab
 
 Create a web application that would allow teachers, therapists, or parents to create social stories for a student. This would include an editor for uploading pictures and adding text. We also want to create a way for teachers to upload their social stories to a global community so that others could download their stories and edit it for their own students. There would also be a mobile component where a teacher could bring up the social story on a tablet and go through it with the student.
 
+### Project Management
+* [Project Dashboard](https://waffle.io/szsen/SocialStoryBuilder)
+  * [First Story](https://github.com/szsen/SocialStoryBuilder/issues/8)
+
 ### Team
 
 [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)

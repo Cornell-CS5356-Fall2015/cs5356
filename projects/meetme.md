@@ -9,3 +9,12 @@ MeetMe is an app that syncs with all your calendars to seamlessly schedule meeti
 
 ### Challenge:
 The app will sync with your calendars and allow you to create “meeting groups” with your friends/colleagues and to suggest preferred meeting times. Once all parties accept the invitation to join the group, the app would automatically calculate and return all eligible meeting timeslots. Once the group votes and agrees on a preferred timeslot, the meeting time is then synced back to the users’ calendars and a meeting time is set!
+
+### Team:
+* [Mark Assad](../people/mark-assad.md)
+* [Anas Bouzoubaa](../people/anas-bouzoubaa.md)
+* [Zaid Haque](../people/zaid-haque.md)
+
+### Project Management System:
+
+[Trello Board](https://trello.com/b/FQqEzbOi/meetme)

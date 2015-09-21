@@ -1,5 +1,8 @@
 IntervYouMe
 -----------
+### Group
+
+Daniel Speiser & Jean-Charles Gasche
 
 ### Background
 
@@ -9,6 +12,9 @@ IntervYouMe will be a platform that allows employers to connect with potential e
 
 With the sad and ever-present concept of unemployment, there will always be a demand in the interview and employment market. How can we go about creating a simple yet efficient way for users to conduct personal and technical interviews on a global scale?
 
-### Solution
+### Project Management System
 
-Private - To be discussed in class.
+Waffle io - Follow us here:
+https://waffle.io/D-Speiser/intervyoume
+
+Note - This is a private repo.

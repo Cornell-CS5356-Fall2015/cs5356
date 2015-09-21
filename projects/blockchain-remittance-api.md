@@ -18,6 +18,10 @@ by a block chain.
 
 - A user can choose our service from a multitude of banks (instead of a wire transfer) to cheaply, quickly, and securely send money to anyone, anywhere.
 
+### First Story
+
+* [Posted on Trello](https://trello.com/b/3a5ameOc/first-story)
+
 ### Further Ideas 
 
 Creating a standalone application independent of any bank is also another way of solving this problem. However
