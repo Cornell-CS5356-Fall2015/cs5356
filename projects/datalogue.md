@@ -10,3 +10,9 @@ Create a market place for finding, linking and downloading data that scientists 
 ### Challenge
 
 Design an SDK that can turn a database into an API. Design real time analytics dashboard for data sets currently in the system. Design a mechanism to securely exchange and link data without sharing identifiable information.  
+
+### First User Story
+
+https://trello.com/b/AIVyQsmC/datalogue-startup-systems
+
+
