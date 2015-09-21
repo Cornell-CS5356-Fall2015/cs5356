@@ -13,6 +13,8 @@ Design an SDK that can turn a database into an API. Design real time analytics d
 
 ### First User Story
 
+https://trello.com/b/AIVyQsmC/datalogue-startup-systems
+
 Our user: A student or a researcher
 
 Current Story:
@@ -28,3 +30,4 @@ User story With datalogue:
   3. The user can: 
     1. View properties of the dataset online and possibly answer their question on the spot.
     2. Or downloal the data
+
