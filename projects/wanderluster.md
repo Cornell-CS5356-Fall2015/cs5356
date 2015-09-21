@@ -8,3 +8,7 @@ Have you ever visited a place, done everything according to your homework yet st
 ### Challenge
 
 For a foreigner or non-local, he might need a good way to befriend someone local. For a local person, he might be looking for a chance to befriend a person outside his usual social circle. Our goal is to create a mobile app that satisfy the need of both parties.
+
+### Project Management Tool
+Find Our First Story Here: [Trello](https://trello.com/b/OzWnuC0M/wanderluster)
+
