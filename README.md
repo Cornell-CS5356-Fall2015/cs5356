@@ -8,7 +8,7 @@ CS 5356: Startup Systems Design and Engineering
 Essentials
 ----------
 
-Can't find this page? Just remember [bit.ly/cs53562015](http://bit.ly/cs53562015).
+Can't find this page? Just remember [bit.ly/cs53562015](Phttp://bit.ly/cs53562015).
 
 * [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup)
 * [Logistics, Location, Class, Office Hours](course/logistics.md)
@@ -45,25 +45,31 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Blockchain Lottery and Gambling](projects/blockchain-lottery-and-gambling.md) - **Team:** [Harrison Gregg](people/harrison-gregg.md), [Haiwei Su](people/haiwei-su.md), [Rishav Kanoria](people/rishav-kanoria.md)
 * [Blockchain Voting](projects/blockchain-voting.md)
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
-* [Power Tools Sharing Economy](projects/power-tools-sharing.md)
-	* **Team 1:** [Asheesh Agarwal](people/asheesh-agarwal.md)
+* [Social Timeline](projects/social-timeline.md)
+* [Power Tools Sharing Economy](projects/power-tools-sharing.md) - **Team:** [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [GitRank](projects/gitrank.md) - **Team:** [Karan Bir](people/karan-bir.md), [Brunno Attorre](people/brunno-attorre.md), [Nicolas Joseph](people/nicolas-joseph.md)
+* [Hospital Prediction Tool](projects/hospitalprediction.md) - **Team:** [Praveen Kumar](people/praveen-kumar.md)
 * [Political Survey App](projects/political-survey-app.md)
-* [IntervYouMe](projects/intervyoume.md)
+* [IntervYouMe](projects/intervyoume.md) - **Team:** [Daniel Speiser](people/daniel-speiser.md), [Jean-Charles Gasche](people/jean-charles-gasche.md)
 * [Smart Classroom App](projects/smart-classroom.md)
 * [Datalogue](projects/datalogue.md)
 * [Screencast Platform](projects/screencast-platform.md)
-* [Automated News Platform](projects/automated-news-platform.md) - **Team:** [Bill Marino](people/bill-marino.md)
+* [Blockchain Derivatives](projects/blockchain-derivatives.md) - **Team:** [Bill Marino](people/bill-marino.md)
 * [Sleep Regulation App](projects/sleep-regulator.md) - **Team:** [Claire Opila](people/claire-opila.md), [Francesco Perera](people/francesco-perera.md), [Praveen Gupta](people/praveen-gupta.md) 
 * [IT Helpouts](projects/it-helpouts.md) - **Team:** [Johan Adami](people/johan-adami.md), [Maria Shen](people/maria-shen.md), [Hannah Xue](people/hannah-xue.md)
 * [Game Master](projects/game-master.md) - **Team:** [Thomas Yang](people/thomas-yang.md), [Ming Chen](people/ming-chen.md), [Matt Zhang](people/matt-zhang.md)
 * [Social Story Builder](projects/social-story-builder.md) - **Team:** [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)
 * [Project Deets](projects/project-deets.md) - **Team:** [Michael Wang](people/michael-wang.md), [Vivek Sudarsan](people/vivek-sudarsan.md), [Julian Ferdman](people/julian-ferdman.md)
-* [Social Timeline](projects/social-timeline.md) - **Team:** [Inna Shteinbuk](people/inna-shteinbuk.md), [Jocelyn Kong](people/jocelyn-kong.md)
+* [Meeting Point](projects/meeting-point.md) - **Team:** [Inna Shteinbuk](people/inna-shteinbuk.md), [Jocelyn Kong](people/jocelyn-kong.md)
 * [Wanderluster](projects/wanderluster.md) - **Team:** [Shimiao Huang](people/shimiao-huang.md), [Yanbo Li](people/yanbo-li.md), [Liudan Xiao](people/liudan-xiao.md)
 * [MeetMe](projects/meetme.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
 * [Smart Alarm](projects/smart-alarm.md) - **Team:** [Gideon Glass](people/gideon-glass.md), [Edward Wu](people/edward-wu.md)
-* [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md),[Naveen Parthasarathy](people/naveen-parthasarathy.md),[Ashwin Ramanathan](people/ashwin-ramanathan.md)
+* [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md), [Naveen Parthasarathy](people/naveen-parthasarathy.md), [Ashwin Ramanathan](people/ashwin-ramanathan.md)
+* [Cuisine](projects/cuisine.md) - **Team:** [Bochen Wang](people/bochen-wang.md), [Tianyuan Liu](people/tianyuan-liu.md), [Yihan Chen](people/yihan-chen.md)
+* [Answer Me](projects/answer-me.md) - **Team:** [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md), [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
+* [Daily Kitten](projects/daily-kitten.md) - **Team:** [Haotian Zhang](people/haotian-zhang.md), [Mengjue Wang](people/mengjue-wang.md), [Jeehyun Kim](people/jeehyun-kim.md)
+* [Gift Crowdfunding](projects/gift-crowdfunding.md) - **Team:** [Shreyas Kulkarni](people/shreyas-kulkarni.md), [Frank Li](people/frank-li.md), [Angel Wong](people/angel-wong.md)
+* [Job Tracker](projects/job-tracker.md) - **Team:** [Srinivasa Teja](people/srinivasa-teja.md), [Bhagyasri Canumalla](people/bhagyasri-canumalla.md), [Sindhu Banavara Ravindra](people/sindhu-banavara-ravindra.md)
 
 People
 ------
@@ -82,6 +88,7 @@ People
 #### Teaching Assistants
 
 * [Karn Seth](people/karn-seth.md)
+* [David Gochfeld](people/david-gochfeld.md)
 
 #### Guest Lecturers
 
