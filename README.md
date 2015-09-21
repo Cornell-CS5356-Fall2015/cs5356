@@ -38,18 +38,13 @@ Projects
 See [Project Logistics](projects/logistics.md) for important dates and deliverables.
 
 #### Class Project Ideas
-
+* [Food Truck Locator](projects/food-truck-locator.md) - **Team:** [Brendan Ritter](people/brendan-ritter.md),[Dan Safdie](people/dan-safdie.md)
 * [Two Star Car Service](projects/two-star-car-service.md)
 * [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
 * [Blockchain Based Remittance API](projects/blockchain-remittance-api.md) - **Team:** [Nwamaka Nzeocha](people/nwamaka-nzeocha.md), [Jeff Ponnor](people/jeff-ponnor.md), [Murat Akdeniz](people/murat-akdeniz.md)
 * [Blockchain Lottery and Gambling](projects/blockchain-lottery-and-gambling.md) - **Team:** [Harrison Gregg](people/harrison-gregg.md), [Haiwei Su](people/haiwei-su.md), [Rishav Kanoria](people/rishav-kanoria.md)
 * [Blockchain Voting](projects/blockchain-voting.md)
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
-<<<<<<< HEAD
-* [Power Tools Sharing Economy](projects/power-tools-sharing.md)
-* [GitRank](projects/gitrank.md)
-* [Political Survey App](projects/political-survey-app.md)
-=======
 * [Social Timeline](projects/social-timeline.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md) - **Team:** [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [GitRank](projects/gitrank.md) - **Team:** [Karan Bir](people/karan-bir.md), [Brunno Attorre](people/brunno-attorre.md), [Nicolas Joseph](people/nicolas-joseph.md)
@@ -74,7 +69,6 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Daily Kitten](projects/daily-kitten.md) - **Team:** [Haotian Zhang](people/haotian-zhang.md), [Mengjue Wang](people/mengjue-wang.md), [Jeehyun Kim](people/jeehyun-kim.md)
 * [Gift Crowdfunding](projects/gift-crowdfunding.md) - **Team:** [Shreyas Kulkarni](people/shreyas-kulkarni.md), [Frank Li](people/frank-li.md), [Angel Wong](people/angel-wong.md)
 * [Job Tracker](projects/job-tracker.md) - **Team:** [Srinivasa Teja](people/srinivasa-teja.md), [Bhagyasri Canumalla](people/bhagyasri-canumalla.md), [Sindhu Banavara Ravindra](people/sindhu-banavara-ravindra.md)
->>>>>>> e7e7d0d5f8f325a327fe519006a1ca60c6132935
 
 People
 ------
