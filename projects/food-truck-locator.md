@@ -13,4 +13,4 @@ To do this we will need essentailly two apps, and some server to facilitate info
 
 ### First Story
 
-* [Posted on Trello](https://www.pivotaltracker.com/n/projects/1430534)
+* [Posted on Pivotal Tracker](https://www.pivotaltracker.com/n/projects/1430534)
