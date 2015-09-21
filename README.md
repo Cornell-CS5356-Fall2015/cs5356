@@ -66,7 +66,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Smart Alarm](projects/smart-alarm.md) - **Team:** [Gideon Glass](people/gideon-glass.md), [Edward Wu](people/edward-wu.md)
 * [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md), [Naveen Parthasarathy](people/naveen-parthasarathy.md), [Ashwin Ramanathan](people/ashwin-ramanathan.md)
 * [Cuisine](projects/cuisine.md) - **Team:** [Bochen Wang](people/bochen-wang.md), [Tianyuan Liu](people/tianyuan-liu.md), [Yihan Chen](people/yihan-chen.md)
-* [Answer Me](projects/answer-me.md) - **Team:** [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md), [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
+* [Emome](projects/emome.md) - **Team:** [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md), [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Daily Kitten](projects/daily-kitten.md) - **Team:** [Haotian Zhang](people/haotian-zhang.md), [Mengjue Wang](people/mengjue-wang.md), [Jeehyun Kim](people/jeehyun-kim.md)
 * [Gift Crowdfunding](projects/gift-crowdfunding.md) - **Team:** [Shreyas Kulkarni](people/shreyas-kulkarni.md), [Frank Li](people/frank-li.md), [Angel Wong](people/angel-wong.md)
 * [Job Tracker](projects/job-tracker.md) - **Team:** [Srinivasa Teja](people/srinivasa-teja.md), [Bhagyasri Canumalla](people/bhagyasri-canumalla.md), [Sindhu Banavara Ravindra](people/sindhu-banavara-ravindra.md)
