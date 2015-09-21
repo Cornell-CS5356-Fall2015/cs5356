@@ -11,7 +11,10 @@ We propose to create an application where your group can pin a location on a map
 
 ### Team
 
-Inna Shteinbuk, Jocelyn Kong
+[Inna Shteinbuk](people/inna-shteinbuk.md), [Jocelyn Kong](people/jocelyn-kong.md)
+
+### Project Management Tool:
+[waffle.io] (https://waffle.io/jocelynk/meeting-point-compass)
 
 ### Stories
 * [First Story](https://github.com/jocelynk/meeting-point-compass/issues/1)
