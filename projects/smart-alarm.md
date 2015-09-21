@@ -10,8 +10,8 @@ We propose to create an alarm app that will periodically check your morning comm
 [Edward Wu](../people/edward-wu.md)
 [Gideon Glass](../people/gideon-glass.md)
 
-###First Story
-User creates profile (email and password) and inputs times for routine morning activities (e.g. breakfast, exercise, shower).
-
 ###Project Management Software
 [waffle.io](https://waffle.io/gidglass/smart-alarm)
+
+###First Story
+[Issue #1 - "Implement First User Story"](https://waffle.io/gidglass/smart-alarm/cards/55fab784f4d0f23900bf42dd)
