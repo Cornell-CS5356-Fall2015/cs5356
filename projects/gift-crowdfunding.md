@@ -11,6 +11,11 @@ This web app will allow users to build collaborative giftlists for each gifting 
 
 ### Project Management Tool
 
-Taiga
+Taiga (Professors should have gotten an invite)
+
 https://tree.taiga.io/project/shreyas-collaborative-gifting/us/1
 
+
+### Team
+
+[Shreyas Kulkarni](/people/shreyas-kulkarni.md), [Frank Li](/people/frank-li.md), [Angel Wong](/people/angel-wong.md)
