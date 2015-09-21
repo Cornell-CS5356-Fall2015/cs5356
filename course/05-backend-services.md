@@ -1,2 +1,0 @@
- - microservice vs monolithic
- - PaaS

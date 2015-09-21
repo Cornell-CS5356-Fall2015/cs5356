@@ -1,5 +1,9 @@
 Brendan Ritter
+<<<<<<< HEAD
 -------------
+=======
+--------------
+>>>>>>> e7e7d0d5f8f325a327fe519006a1ca60c6132935
 
 ![](photos/brendan-ritter.png)
 

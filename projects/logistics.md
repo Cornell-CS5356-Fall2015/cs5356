@@ -5,6 +5,12 @@ Your Startup Project
 
 Students collaborate on an ambitious software project, a technology startup, from start to finish during the semester.
 
+### Submitting Deliverables
+
+The following schedule lists a few intermediate deliverables.  Add them to your project page and submit a pull request before Friday the week they are due. Each deliverable is worth 1 point towards your final grade.
+
+Your First Story and MVP proposals should be added to a project management system linked from the project page, and you should include a link to your First Story demo and your Investor Pitch presentation and demo.
+
 ### Important Dates
 
 #### 26-Aug: Introduction to Building Your Startup
@@ -23,11 +29,11 @@ Students can do a project individually or in groups. Each group must have a maxi
 
 #### 16-Sep: Deadline for a First Story
 
-A first story is something useful that you can implement in a week. Students work with TAs and instructors on the definition of such a story.
+A first story is something useful that you can implement in a week. Students work with TAs and instructors on the definition of such a story, but don't need to implement it quite yet.
 
 #### 23-Sep: Demo a First Story and Discuss MVP
 
-Students demonstrate a working product that implements the story in front of class and propose some ideas of what an MVP for the product could look like.
+Students demonstrate a working product that implements the first story in front of class and propose some ideas of what an MVP for the product could look like.
 
 #### 7-Oct: MVP
 

@@ -1,6 +1,7 @@
 Karn Seth
-------------------
+---------
 
-![](photos/karn.jpg)
+![](photos/karn-seth.jpg)
 
 * [Homepage at Cornell CS](http://www.cs.cornell.edu/~karn/)
+* [Github](https://github.com/karnseth)

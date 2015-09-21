@@ -1,5 +1,5 @@
 Brunno Attorre
--------------
+--------------
 
 ![Brunno Attorre's photo](photos/brunno-attorre.jpg)
 
