@@ -48,6 +48,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Social Timeline](projects/social-timeline.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md) - **Team:** [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [GitRank](projects/gitrank.md) - **Team:** [Karan Bir](people/karan-bir.md), [Brunno Attorre](people/brunno-attorre.md), [Nicolas Joseph](people/nicolas-joseph.md)
+* [Hospital Prediction Tool](projects/hospitalprediction.md) - **Team:** [Praveen Kumar](people/praveen-kumar.md)
 * [Political Survey App](projects/political-survey-app.md)
 * [IntervYouMe](projects/intervyoume.md) - **Team:** [Daniel Speiser](people/daniel-speiser.md), [Jean-Charles Gasche](people/jean-charles-gasche.md)
 * [Smart Classroom App](projects/smart-classroom.md)
