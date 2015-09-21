@@ -8,5 +8,11 @@ Lots of users have troubles choosing what to eat, they want to eat healthy but d
 * Gathering nutrition data and meal informations involves robust web crawlers and persistent storage
 * Recommendtaion systems faces cold-start problem
 
-## Team
+### Team
 [Bochen Wang](../people/bochen-wang.md), [Tianyuan Liu](../people/tianyuan-liu.md), [Yihan Chen](../people/yihan-chen.md)
+
+### First User Story
+[First user story](https://github.com/AndyLiu0429/cuisine/issues/9)
+
+### Project Management Tools
+We use [waffle](https://waffle.io/AndyLiu0429/cuisine) as project management system.
