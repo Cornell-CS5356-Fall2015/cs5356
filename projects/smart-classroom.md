@@ -21,3 +21,8 @@ To initially make an application utilizing beacons to track and validate attenda
 ### Scenario
 
 When class starts, beacons check to see if all smartphones are in the room ie all students are present. It can be validated with facial recognition. The app on the teachers computer can allow the ability to send questions throughout class making sure students are keeping up with material and give quiet students good participation grades. Quizzical and confused student expressions can be tracked and overlayed with teacher text so the teacher can see where students were confused. Many more features could be built on top of this work.
+
+
+### Project Management Tool
+
+[Trello](https://trello.com/b/TAeHcHT6)
