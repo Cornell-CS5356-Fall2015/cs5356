@@ -51,7 +51,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Hospital Prediction Tool](projects/hospitalprediction.md) - **Team:** [Praveen Kumar](people/praveen-kumar.md)
 * [Political Survey App](projects/political-survey-app.md)
 * [IntervYouMe](projects/intervyoume.md) - **Team:** [Daniel Speiser](people/daniel-speiser.md), [Jean-Charles Gasche](people/jean-charles-gasche.md)
-* [Smart Classroom App](projects/smart-classroom.md)
+* [Smart Classroom App](projects/smart-classroom.md) - **Team:** [John Williams](people/john-willaims.md), [Dan Feusse](people/dan-feusse.md)
 * [Datalogue](projects/datalogue.md) - **Team:** [Tim Delisle](people/tim-delisle.md), [Omri Sass](people/omri-sass.md), [Chloe Eghtebas](people/chloe-eghtebas.md)  
 * [Screencast Platform](projects/screencast-platform.md)
 * [Blockchain Derivatives](projects/blockchain-derivatives.md) - **Team:** [Bill Marino](people/bill-marino.md)
