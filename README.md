@@ -127,6 +127,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Jeff Ponnor](people/jeff-ponnor.md)
 * [Jocelyn Kong](people/jocelyn-kong.md)
 * [Johan Adami](people/johan-adami.md)
+* [John Williams](people/john-williams.md)
 * [Julian Ferdman](people/julian-ferdman.md)
 * [Karan Bir](people/karan-bir.md)
 * [Liudan Xiao](people/liudan-xiao.md)
