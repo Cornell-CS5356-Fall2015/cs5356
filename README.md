@@ -61,7 +61,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Game Master](projects/game-master.md) - **Team:** [Thomas Yang](people/thomas-yang.md), [Ming Chen](people/ming-chen.md), [Matt Zhang](people/matt-zhang.md)
 * [Social Story Builder](projects/social-story-builder.md) - **Team:** [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)
 * [Project Deets](projects/project-deets.md) - **Team:** [Michael Wang](people/michael-wang.md), [Vivek Sudarsan](people/vivek-sudarsan.md), [Julian Ferdman](people/julian-ferdman.md)
-* [Meeting Point](projects/meeting-point.md) - **Team:** [Inna Shteinbuk](people/inna-shteinbuk.md), [Jocelyn Kong](people/jocelyn-kong.md)
+* [Meeting Point](projects/meeting-point.md) - **Team:** [Inna Shteinbuk](people/inna-shteinbuk.md), [Jocelyn Kong](people/jocelyn-kong.md), [Halil Akin](people/halil-akin.md)
 * [Wanderluster](projects/wanderluster.md) - **Team:** [Shimiao Huang](people/shimiao-huang.md), [Yanbo Li](people/yanbo-li.md), [Liudan Xiao](people/liudan-xiao.md)
 * [MeetMe](projects/meetme.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
 * [Smart Alarm](projects/smart-alarm.md) - **Team:** [Gideon Glass](people/gideon-glass.md), [Edward Wu](people/edward-wu.md)
