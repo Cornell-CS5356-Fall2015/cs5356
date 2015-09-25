@@ -17,9 +17,9 @@ Can't find this page? Just remember [bit.ly/cs53562015](Phttp://bit.ly/cs5356201
 Lectures
 --------
 
-1.  26-Aug: [Developer Culture and Workflow](course/01-developer-culture-and-workflow.md)         [@dblock](/people/daniel-doubrovkine.md)
-2.  02-Sep: [Turning Ideas into Software](course/02-turning-ideas-into-software.md)               [@amfleming](/people/adam-fleming.md)
-3.  09-Sep: [Development Stacks](course/03-development-stacks.md)                                 [@amfleming](/people/adam-fleming.md)
+1.  26-Aug: [Developer Culture and Workflow](course/01-developer-culture-and-workflow/lecture.md) [@dblock](/people/daniel-doubrovkine.md)
+2.  02-Sep: [Turning Ideas into Software](course/02-turning-ideas-into-software/lecture.md)       [@amfleming](/people/adam-fleming.md)
+3.  09-Sep: [Development Stacks](course/03-development-stacks/lecture.md)                         [@amfleming](/people/adam-fleming.md)
 4.  16-Sep: [Backend Services](course/04-backend-services.md)                                     [@amfleming](/people/adam-fleming.md)
 5.  23-Sep: [Infrastructure](course/05-infrastructure.md)                                         [@amfleming](/people/adam-fleming.md)
 6.  30-Sep: [Databases and Storage](course/06-databases-and-storage.md)                           [@dblock](/people/daniel-doubrovkine.md)
@@ -38,7 +38,7 @@ Projects
 See [Project Logistics](projects/logistics.md) for important dates and deliverables.
 
 #### Class Project Ideas
- 
+
 * [Addhub](projects/addhub.md) -**Team:** [Jacqueline Pang](people/jacqueline-pang.md), [Sasinda Rukshan](people/sasinda-rukshan.md), [Yilin Xu](people/yilin-xu.md)
 * [Two Star Car Service](projects/two-star-car-service.md)
 * [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
@@ -53,10 +53,10 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Political Survey App](projects/political-survey-app.md)
 * [IntervYouMe](projects/intervyoume.md) - **Team:** [Daniel Speiser](people/daniel-speiser.md), [Jean-Charles Gasche](people/jean-charles-gasche.md)
 * [Smart Classroom App](projects/smart-classroom.md)
-* [Datalogue](projects/datalogue.md) - **Team:** [Tim Delisle](people/tim-delisle.md), [Omri Sass](people/omri-sass.md), [Chloe Eghtebas](people/chloe-eghtebas.md)  
+* [Datalogue](projects/datalogue.md) - **Team:** [Tim Delisle](people/tim-delisle.md), [Omri Sass](people/omri-sass.md), [Chloe Eghtebas](people/chloe-eghtebas.md)
 * [Screencast Platform](projects/screencast-platform.md)
 * [Blockchain Derivatives](projects/blockchain-derivatives.md) - **Team:** [Bill Marino](people/bill-marino.md)
-* [Sleep Regulation App](projects/sleep-regulator.md) - **Team:** [Claire Opila](people/claire-opila.md), [Francesco Perera](people/francesco-perera.md), [Praveen Gupta](people/praveen-gupta.md) 
+* [Sleep Regulation App](projects/sleep-regulator.md) - **Team:** [Claire Opila](people/claire-opila.md), [Francesco Perera](people/francesco-perera.md), [Praveen Gupta](people/praveen-gupta.md)
 * [IT Helpouts](projects/it-helpouts.md) - **Team:** [Johan Adami](people/johan-adami.md), [Maria Shen](people/maria-shen.md), [Hannah Xue](people/hannah-xue.md)
 * [Game Master](projects/game-master.md) - **Team:** [Thomas Yang](people/thomas-yang.md), [Ming Chen](people/ming-chen.md), [Matt Zhang](people/matt-zhang.md)
 * [Social Story Builder](projects/social-story-builder.md) - **Team:** [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)
