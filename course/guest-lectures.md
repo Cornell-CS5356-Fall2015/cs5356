@@ -5,7 +5,7 @@ We invite the most interesting technologists to give guest lectures.
 
 ### Functional Reactive Programming on iOS
 
-In the November 14, 2015 guest lecture, [Ash Furrow](/people/ash-furrow.md) of [Artsy](https://artsy.net) will discuss the use of functional reactive programming on iOS. Topics include the motivation behind FRP, its history on other platforms, and its use on iOS in Objective-C and Swift. There will also be coding examples given, starting with simple demos and moving up to more complex behaviour.
+In the October 14, 2015 guest lecture, [Ash Furrow](/people/ash-furrow.md) of [Artsy](https://artsy.net) will discuss the use of functional reactive programming on iOS. Topics include the motivation behind FRP, its history on other platforms, and its use on iOS in Objective-C and Swift. There will also be coding examples given, starting with simple demos and moving up to more complex behaviour.
 
 ### Structure
 
