@@ -38,7 +38,7 @@ Projects
 See [Project Logistics](projects/logistics.md) for important dates and deliverables.
 
 #### Class Projects
-
+* [Food Truck Locator](projects/food-truck-locator.md) - **Team:** [Brendan Ritter](people/brendan-ritter.md),[Dan Safdie](people/dan-safdie.md)
 * [Addhub](projects/addhub.md) -**Team:** [Jacqueline Pang](people/jacqueline-pang.md), [Sasinda Rukshan](people/sasinda-rukshan.md), [Yilin Xu](people/yilin-xu.md)
 * [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
 * [Blockchain Based Remittance API](projects/blockchain-remittance-api.md) - **Team:** [Nwamaka Nzeocha](people/nwamaka-nzeocha.md), [Jeff Ponnor](people/jeff-ponnor.md), [Murat Akdeniz](people/murat-akdeniz.md)
