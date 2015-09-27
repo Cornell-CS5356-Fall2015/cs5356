@@ -22,7 +22,7 @@ Lectures
 3.  09-Sep: [Development Stacks](course/03-development-stacks/lecture.md)                         [@amfleming](/people/adam-fleming.md)
 4.  16-Sep: [Backend Services](course/04-backend-services.md)                                     [@amfleming](/people/adam-fleming.md)
 5.  23-Sep: [Infrastructure](course/05-infrastructure.md)                                         [@amfleming](/people/adam-fleming.md)
-6.  30-Sep: [Databases and Storage](course/06-databases-and-storage.md)                           [@dblock](/people/daniel-doubrovkine.md)
+6.  30-Sep: [Databases and Storage](course/06-databases-and-storage/lecture.md)                   [@dblock](/people/daniel-doubrovkine.md)
 7.  07-Oct: [Data Pipelines](course/07-data-pipelines.md)                                         [@dblock](/people/daniel-doubrovkine.md)
 8.  14-Oct: [Mobile](course/08-mobile.md)                                                         [@dblock](/people/daniel-doubrovkine.md)
 9.  21-Oct: [Browsers](course/09-browsers.md)                                                     [@amfleming](/people/adam-fleming.md)

@@ -1,5 +1,0 @@
- - SQL
- - NoSQL
- - OLTP vs OLAP
- - Cassandra
- - S3, GridFS
