@@ -38,7 +38,7 @@ Projects
 See [Project Logistics](projects/logistics.md) for important dates and deliverables.
 
 #### Class Projects
-* [Food Truck Locator](projects/food-truck-locator.md) - **Team:** [Brendan Ritter](people/brendan-ritter.md),[Dan Safdie](people/dan-safdie.md)
+
 * [Addhub](projects/addhub.md) -**Team:** [Jacqueline Pang](people/jacqueline-pang.md), [Sasinda Rukshan](people/sasinda-rukshan.md), [Yilin Xu](people/yilin-xu.md)
 * [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
 * [Blockchain Based Remittance API](projects/blockchain-remittance-api.md) - **Team:** [Nwamaka Nzeocha](people/nwamaka-nzeocha.md), [Jeff Ponnor](people/jeff-ponnor.md), [Murat Akdeniz](people/murat-akdeniz.md)
@@ -50,6 +50,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Datalogue](projects/datalogue.md) - **Team:** [Tim Delisle](people/tim-delisle.md), [Omri Sass](people/omri-sass.md), [Chloe Eghtebas](people/chloe-eghtebas.md)
 * [Document Thumbnails as a Service](projects/document-thumbnails-as-a-service.md)
 * [Emome](projects/emome.md) - **Team:** [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md), [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
+* [Food Truck Locator](projects/food-truck-locator.md) - **Team:** [Brendan Ritter](people/brendan-ritter.md), [Dan Safdie](people/dan-safdie.md)
 * [Game Master](projects/game-master.md) - **Team:** [Thomas Yang](people/thomas-yang.md), [Ming Chen](people/ming-chen.md), [Matt Zhang](people/matt-zhang.md)
 * [Gift Crowdfunding](projects/gift-crowdfunding.md) - **Team:** [Shreyas Kulkarni](people/shreyas-kulkarni.md), [Frank Li](people/frank-li.md), [Angel Wong](people/angel-wong.md)
 * [GitRank](projects/gitrank.md) - **Team:** [Karan Bir](people/karan-bir.md), [Brunno Attorre](people/brunno-attorre.md), [Nicolas Joseph](people/nicolas-joseph.md)
