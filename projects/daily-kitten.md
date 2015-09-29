@@ -17,3 +17,9 @@ Our first user story: [Issue #1](https://github.com/haotianz/daily-kitten/issues
 
 ### Project Management
 We are using [Trello](https://trello.com/b/HRdQyjsC/daily-kitten) as project management tool.
+
+### Repository
+[Github Source Code Repo](https://github.com/haotianz/daily-kitten), [Automated Tests Code](https://github.com/haotianz/daily-kitten/tree/master/app/test)
+
+### Automated Test Status
+[Automated Tests Status](https://travis-ci.org/haotianz/daily-kitten)
