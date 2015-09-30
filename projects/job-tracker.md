@@ -20,3 +20,7 @@ Srinivasa Teja, Sindhu Banavara, Bhagyasri Canumalla
 ### Stories
 
 * [First Story](https://trello.com/c/O1PGFqAX)
+
+### Repository
+
+* [Bitbucket](https://bitbucket.org/nsteja1/5status/src)
