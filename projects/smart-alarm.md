@@ -16,3 +16,6 @@ We propose to create an alarm app that will periodically check your morning comm
 
 ###First Story
 [Issue #1 - "Implement First User Story"](https://waffle.io/gidglass/smart-alarm/cards/55fab784f4d0f23900bf42dd)
+
+###Source Code Repo
+[Smart Alarm Repo](https://github.com/smart-alarm)
