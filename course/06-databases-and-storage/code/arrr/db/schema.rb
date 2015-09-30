@@ -11,7 +11,16 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150930123008) do
+ActiveRecord::Schema.define(version: 20150930124015) do
+
+  create_table "gadgets", force: :cascade do |t|
+    t.string   "name"
+    t.integer  "widget_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_index "gadgets", ["widget_id"], name: "index_gadgets_on_widget_id"
 
   create_table "widgets", force: :cascade do |t|
     t.string   "name",       null: false
