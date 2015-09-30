@@ -17,3 +17,6 @@ We will record, with users' permission, the final result and possible data as mu
 ### Product Management
 
 https://trello.com/b/XGlWnY5g/product
+
+### Github Repository
+https://github.com/Matt-Zhang/GameMaster

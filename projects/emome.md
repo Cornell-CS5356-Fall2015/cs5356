@@ -21,7 +21,11 @@ Emotion is what triggers people to take actions. However, current services like 
 [Hsiao-Ching (Jean) Lin](people/hsiaoching-lin.md), [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 
 ### Repository
-[Emome iOS App](https://github.com/emome/emome-ios)
+- [Emome iOS App](https://github.com/emome/emome-ios)
+
+### Continuous Integration
+We use [Travis-CI](travis-ci.org) for continous integration: 
+- [Emome iOS App](https://travis-ci.org/emome/emome-ios) (Currently, only UnitTests are included. The Xcode 7 UITests can be run locally.)
 
 ### Project Management Tool
 Install [Zenhub](https://www.zenhub.io/) Google Chrome plugin, and go to the [Emome app boards](https://github.com/emome/emome-ios#boards).

@@ -1,6 +1,6 @@
 # Developer Culture and Workflow
 
-* [Lecture Slides PDF](cs5356-01-developer-culture-and-workflow.pdf) / [Google Docs](https://docs.google.com/a/dblock.org/presentation/d/1_YizH6yDzBmtGYcNPENEcxWiYBpg8T_CmMg8Nv7pJMU/edit?usp=sharing)
+* [Lecture Slides PDF](lecture.pdf) / [Google Docs](https://docs.google.com/a/dblock.org/presentation/d/1_YizH6yDzBmtGYcNPENEcxWiYBpg8T_CmMg8Nv7pJMU/edit?usp=sharing)
 
 ## Software Eating the World
 
@@ -75,7 +75,7 @@ Source Control, also known as _Version Control_ or _Revision Control_ lets you _
 
 We're going to learn Git. Git is a fast, open source, distributed version control system. It's unlike CVS, SourceSafe, ClearCase, Subversion or Perforce, and is somewhat like Mercurial (Hg). Distributed means it works offline. Git is an essential enabler of the open-source ecosystem as the fork and pull model is the default _open-source workflow_.
 
-* [Git Walkthrough](/course/01-developer-culture-and-workflow/git-walkthrough.md)
+* [Git Walkthrough](git-walkthrough.md)
 
 ## Development Environment
 
