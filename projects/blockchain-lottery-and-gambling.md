@@ -15,8 +15,12 @@ There are many sites that allow Bitcoin gambling, like Satoshibet, and making on
 
 ### Project Management
 
-We are using [waffle.io](https://waffle.io/HarrisonGregg/BlockchainGambling) for our project management tool.
+We are using [Trello](https://trello.com/b/Daie0wKH/blockchain-gambling) for our project management tool.
 
 ### First Story
 
-Our first story is [here](https://waffle.io/HarrisonGregg/BlockchainGambling/cards/560063f286f0de1100334ac6) on waffle.io.
+Our first story is [here](https://trello.com/c/FjEsJj5m/13-first-story-users-can-create-accounts-start-lotteries-and-join-lotteries-the-creator-of-a-lottery-can-run-the-lottery-and-a-user) on Trello.
+
+### Version Control
+
+Our code is hosted on [GitHub](https://github.com/HarrisonGregg/BlockchainGambling).
