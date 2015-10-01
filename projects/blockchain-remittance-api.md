@@ -3,7 +3,9 @@ Block Chain Based Remittance API
 
 ### Background
 
-Build an API for a block chain based system of sending remittances.
+Build an API for a blockchain based system of sending remittances.
+
+* [Project Link](https://github.com/nwams/Bank-to-Bank-Block-Chain)
 
 ### Challenge
 
