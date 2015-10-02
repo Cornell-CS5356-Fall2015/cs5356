@@ -20,5 +20,12 @@ The three steps involved are:
 * [Vivek Sudarsan](../people/vivek-sudarsan.md)
 * [Julian Ferdman](../people/julian-ferdman.md)
 
+### Landing page
+[Cohesve.com](http://cohesve.com)
+
 ### Project Management Tool
 [Trello Board](https://trello.com/deets1)
+
+### Source
+[Github](https://github.com/mzw4/deets)
+
