@@ -18,3 +18,7 @@ The app will sync with your calendars and allow you to create â€œmeeting groupsâ
 ### Project Management System:
 
 [Trello Board](https://trello.com/b/FQqEzbOi/meetme)
+
+### Source Code:
+
+[Github Repo](https://github.com/Startup-Systems-MeetMe/MeetMe-iOS)
