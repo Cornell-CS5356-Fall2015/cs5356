@@ -16,3 +16,9 @@ Lots of users have troubles choosing what to eat, they want to eat healthy but d
 
 ### Project Management Tools
 We use [waffle](https://waffle.io/AndyLiu0429/cuisine) as project management system.
+
+### Github Repo
+[Github Repo](https://github.com/AndyLiu0429/cuisine)
+
+### Automated Test
+[Automated Tests Status](https://travis-ci.org/AndyLiu0429/cuisine)
