@@ -16,3 +16,4 @@ We need to work out a reliable payment model. We need to be able to verify profe
 ### Project Management
 
 * [Trello](https://trello.com/b/Bb9gVAFI)
+* [GitHub](https://github.com/jadami10/ITHelp.git)
