@@ -14,12 +14,12 @@ We propose to create an application where your group can pin a location on a map
 [Inna Shteinbuk](../people/inna-shteinbuk.md), [Jocelyn Kong](../people/jocelyn-kong.md), [Halil Akin](../people/halil-akin.md)
 
 ### Git Repository:
-[Client] (https://github.com/meeting-point/mpclient)
-[Server] (https://github.com/meeting-point/mpserver)
+* [Client] (https://github.com/meeting-point/mpclient)
+* [Server] (https://github.com/meeting-point/mpserver)
 
 ### Project Management Tool:
-[waffle.io client] (https://waffle.io/meeting-point/mpclient)
-[waffle.io server] (https://waffle.io/meeting-point/mpserver)
+* [waffle.io client] (https://waffle.io/meeting-point/mpclient)
+* [waffle.io server] (https://waffle.io/meeting-point/mpserver)
 
 ### Stories
 * [First Story](https://github.com/meeting-point/mpclient/issues/1)
