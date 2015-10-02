@@ -12,6 +12,10 @@ We aim to create an online platform where all the players involved in trade, lik
 ### Team
 [Naveen Parthasarathy](../people/naveen-parthasarathy.md),[Peter Tran](../people/peter-tran.md),[Ashwin Ramanathan](../people/ashwin-ramanathan.md) 
 
+### Github repo
+https://github.com/naveenlp/bizsouk
+
+
 ### Project Management Tool
 Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/1430536
