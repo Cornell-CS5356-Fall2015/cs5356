@@ -33,8 +33,9 @@ c. Naturual language processing technogy -  If the public platformd don't provid
 
 ### Project Management Software
 * We are using waffle.io on github as the project manager, https://waffle.io/addhub/prototype
-
-* Project Repo :https://github.com/addhub/prototype
+* Project UI :https://github.com/addhub/prototype
+* Project Infrastructure: https://github.com/addhub/play
+* Project automated test: https://github.com/addhub/uxtest
 * Agile Board: https://waffle.io/addhub/prototype
 * UI Workflow: https://projects.invisionapp.com/d/main#/projects/4726128
 
