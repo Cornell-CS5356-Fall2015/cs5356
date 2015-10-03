@@ -13,7 +13,16 @@ Part of the reason why nobody is winning in this space is because the for-profit
 
 Many other things can be shared in similar ways beyond power tools!
 
+### Version Control System
+I am using Git as my version control system both for server and client applications. Below are the links for the same:
+
+* [Power Tool Sharing Server](https://github.com/asheesh-agarwal/Power-Tools-Sharing-Server)
+* [Power Tool Sharing Client](https://github.com/asheesh-agarwal/Power-Tools-Sharing-Client-iOS) 
+
+
 ### Project Management
+I am using Waffle as my project management tool. All the new features, issues and their statuses are available here. For more information on project, please refer to the links above.
+
 * [Project Dashboard](https://waffle.io/asheesh-agarwal/Power-Tools-Sharing)
   * [First Story](https://github.com/asheesh-agarwal/Power-Tools-Sharing/issues/4)
 
