@@ -17,6 +17,10 @@ We propose to create an application where your group can pin a location on a map
 * [Client] (https://github.com/meeting-point/mpclient)
 * [Server] (https://github.com/meeting-point/mpserver)
 
+### Continuous Integration and Deployment:
+* [Client] (https://circleci.com/gh/meeting-point/mpclient)
+* [Server] (https://circleci.com/gh/meeting-point/mpserver)
+
 ### Project Management Tool:
 * [waffle.io client] (https://waffle.io/meeting-point/mpclient)
 * [waffle.io server] (https://waffle.io/meeting-point/mpserver)
