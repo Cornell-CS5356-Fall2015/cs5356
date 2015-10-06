@@ -22,4 +22,7 @@ We are using [Trello](https://trello.com/b/HRdQyjsC/daily-kitten) as project man
 [Github Source Code Repo](https://github.com/haotianz/daily-kitten), [Automated Tests Code](https://github.com/haotianz/daily-kitten/tree/master/app/test)
 
 ### Automated Test Status
-[Automated Tests Status](https://travis-ci.org/haotianz/daily-kitten)
+[![Travis Badge](https://api.travis-ci.org/haotianz/daily-kitten.svg)](https://travis-ci.org/haotianz/daily-kitten)
+
+### Deployment Link
+[Deployment Link](http://ec2-52-88-243-250.us-west-2.compute.amazonaws.com/)
