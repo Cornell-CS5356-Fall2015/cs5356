@@ -1,13 +1,16 @@
-Gift Crowdfunding (name under revision)
+GiftedBy.Us
 ------------
 
 ### Background
 
 Your friend's birthday is coming up! All of your friends are at a loss as to what to give your friend, but now with (Gift Crowdfunding), your group of friends can collaborate on the best present for your friend that falls in your group's collective budget.
 
-### Repo/Source Code
+### Live Production
 
-GitHub Repo
+http://giftedbyus.meteor.com/
+
+
+### GitHub Repo
 
 https://github.com/kshreyas91/giftedfromus
 
@@ -18,7 +21,6 @@ This web app will allow users to build collaborative giftlists for each gifting 
 ### Project Management Tool
 
 Taiga (Professors should have gotten an invite)
-
 https://tree.taiga.io/project/shreyas-collaborative-gifting/us/1
 
 
