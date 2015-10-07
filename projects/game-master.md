@@ -20,3 +20,6 @@ https://trello.com/b/XGlWnY5g/product
 
 ### Github Repository
 https://github.com/Matt-Zhang/GameMaster
+
+### Automated Test Status
+https://travis-ci.org/Matt-Zhang/GameMaster
