@@ -64,7 +64,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md) - **Team:** [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [Project Deets](projects/project-deets.md) - **Team:** [Michael Wang](people/michael-wang.md), [Vivek Sudarsan](people/vivek-sudarsan.md), [Julian Ferdman](people/julian-ferdman.md)
 * [Screencast Platform](projects/screencast-platform.md)
-* [Sleep Regulation App](projects/sleep-regulator.md) - **Team:** [Claire Opila](people/claire-opila.md), [Francesco Perera](people/francesco-perera.md), [Praveen Gupta](people/praveen-gupta.md)
+* [Slamble](projects/slamble.md) - **Team:** [Claire Opila](people/claire-opila.md), [Francesco Perera](people/francesco-perera.md), [Praveen Gupta](people/praveen-gupta.md)
 * [Smart Alarm](projects/smart-alarm.md) - **Team:** [Gideon Glass](people/gideon-glass.md), [Edward Wu](people/edward-wu.md)
 * [Smart Classroom App](projects/smart-classroom.md)
 * [Social Story Builder](projects/social-story-builder.md) - **Team:** [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)
