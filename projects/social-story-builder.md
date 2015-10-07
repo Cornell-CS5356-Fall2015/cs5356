@@ -17,6 +17,18 @@ Create a web application that would allow teachers, therapists, or parents to cr
 * [Project Dashboard](https://waffle.io/szsen/SocialStoryBuilder)
   * [First Story](https://github.com/szsen/SocialStoryBuilder/issues/8)
 
+### Continuous Integration
+
+For the web app, we use CircleCI to run build tests on each commit. You can find our build statuses on CircleCI here:
+
+[CircleCI Dashboard](https://circleci.com/gh/szsen/ssbuilder)
+
+### Continuous Deployment
+
+For the web app, we use CircleCI for continuous delivery via Docker Hub. We then set up [Tutum](https://www.tutum.co/) to automatically deploy our application service whenever there is a new image available on Docker Hub. You can see our latest build live here:
+
+[Social Story Builder Latest](http://91c1fff3-rchen27.node.tutum.io/stories)
+
 ### Team
 
 [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)
