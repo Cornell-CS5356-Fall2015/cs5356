@@ -27,7 +27,7 @@ Our code is hosted on [GitHub](https://github.com/HarrisonGregg/BlockchainGambli
 
 ### Automated Testing and Continuous Integration [![Build Status](https://travis-ci.org/HarrisonGregg/BlockchainGambling.svg)](https://travis-ci.org/HarrisonGregg/BlockchainGambling)
 
-On upload to GitHub, [Travis CI](https://travis-ci.org/HarrisonGregg/BlockchainGambling) automatically runs our Django unit tests and uploads all changes to Heroku if all tests pass.
+On upload to GitHub, [Travis CI](https://travis-ci.org/HarrisonGregg/BlockchainGambling) automatically runs our Django unit tests and pushes all changes to Heroku if all tests pass.
 
 ### Deployment
 
