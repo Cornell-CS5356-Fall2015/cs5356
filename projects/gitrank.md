@@ -12,13 +12,13 @@ There are some services that are emerging around this market like [StackShare](h
 [githubRanking.com](githubranking.com), [Product Hunt](http://www.producthunt.com/) ... Let's make something in between those, more innovative and easier to use.
 
 ## Team
-[Brunno Attorre](../people/brunno-attorre.md), [Karan Bir](../people/karan-bir.md), [Nicolas Joseph](../people/nicolas-joseph.md)
+[Brunno Attorre](../people/brunno-attorre.md), [Nicolas Joseph](../people/nicolas-joseph.md)
 
 ## First user Story
 Our first user story can be found on: [Issue #53](https://github.com/gitlinks/gitrank-web/issues/53)
 
 ## Project Management
-We are using Waffle as our project management tool. You can get a view about issues and features being added on the project. [Waffle](https://waffle.io/gitlinks/gitrank-web) 
+We are using Waffle as our project management tool. You can get a view about issues and features being added on the project. [Waffle](https://waffle.io/gitlinks/gitrank-web)
 
 ## Branches
 The main project page can be seen on: https://github.com/gitlinks/gitrank-web
@@ -31,5 +31,8 @@ There are, currently, two main branches:
 - We are using Circle CI as our continous integration server. All the tests and builds run on each commit. The project page is:
 https://circleci.com/gh/gitlinks/gitrank-web
 
+## Servers
+- Production server: [gitrank.io](https://gitrank.io)
+- Test server: [dev.gitrank.io](http://dev.gitrank.io)
 
 **Extensive information about the project can be found [here](https://github.com/gitlinks/github-rank-project)**
