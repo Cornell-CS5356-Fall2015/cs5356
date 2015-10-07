@@ -53,7 +53,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Food Truck Locator](projects/food-truck-locator.md) - **Team:** [Brendan Ritter](people/brendan-ritter.md), [Dan Safdie](people/dan-safdie.md)
 * [Game Master](projects/game-master.md) - **Team:** [Thomas Yang](people/thomas-yang.md), [Ming Chen](people/ming-chen.md), [Matt Zhang](people/matt-zhang.md)
 * [Gift Crowdfunding](projects/gift-crowdfunding.md) - **Team:** [Shreyas Kulkarni](people/shreyas-kulkarni.md), [Frank Li](people/frank-li.md), [Angel Wong](people/angel-wong.md)
-* [GitRank](projects/gitrank.md) - **Team:** [Karan Bir](people/karan-bir.md), [Brunno Attorre](people/brunno-attorre.md), [Nicolas Joseph](people/nicolas-joseph.md)
+* [GitRank](projects/gitrank.md) - **Team:** [Brunno Attorre](people/brunno-attorre.md), [Nicolas Joseph](people/nicolas-joseph.md)
 * [Hospital Prediction Tool](projects/hospitalprediction.md) - **Team:** [Praveen Kumar](people/praveen-kumar.md)
 * [IntervYouMe](projects/intervyoume.md) - **Team:** [Daniel Speiser](people/daniel-speiser.md), [Jean-Charles Gasche](people/jean-charles-gasche.md)
 * [IT Helpouts](projects/it-helpouts.md) - **Team:** [Johan Adami](people/johan-adami.md), [Maria Shen](people/maria-shen.md), [Hannah Xue](people/hannah-xue.md)
