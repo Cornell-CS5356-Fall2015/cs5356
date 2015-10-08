@@ -23,4 +23,14 @@ Srinivasa Teja, Sindhu Banavara, Bhagyasri Canumalla
 
 ### Repository
 
-* [Bitbucket](https://bitbucket.org/nsteja1/5status/src)
+* Source code hosted on [Bitbucket](https://bitbucket.org/nsteja1/5status/src) - Invitations are with Karn, Dblock and Adam.
+
+### Deployment 
+
+* [Jenkins Center](http://5status.com:8080/)  - Unsecured open to Cornell Tech's IP Address. Please let us know if you need some other ipaddress to access
+* [Iam access](https://454863676913.signin.aws.amazon.com/console)
+* [Live Project](http://5status.com/5status/src/index.html)
+
+### API 
+
+* http://5status.com/5status/src/api/v1/endpoint -  endpoint is a placeholder for general APIs. eg. addCard.php is one of the endpoints.
