@@ -24,6 +24,10 @@ by a block chain.
 
 * [Posted on Trello](https://trello.com/b/3a5ameOc/first-story)
 
+### Test Store to Download the App
+
+* [Click to download the BB Block Chain iOS App](https://betas.to/sXMuBEvq)
+
 ### Further Ideas 
 
 Creating a standalone application independent of any bank is also another way of solving this problem. However
