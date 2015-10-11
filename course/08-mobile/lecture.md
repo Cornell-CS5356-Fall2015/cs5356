@@ -1,7 +1,6 @@
- - Native vs XCompile
- - Frameworks
- - Push Notifications
- - Releases + App Stores
+### Mobile
+
+* [Lecture](lecture.pdf)
 
 ### Guest Lecturer
 
