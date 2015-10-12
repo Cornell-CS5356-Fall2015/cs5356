@@ -28,8 +28,8 @@ There are, currently, two main branches:
 - All the other branches are for development only and contains specific features being developed that migh not be functional.
 
 ## CI Engine
-- We are using Circle CI as our continous integration server. All the tests and builds run on each commit. The project page is:
-https://circleci.com/gh/gitlinks/gitrank-web
+- We are using Circle CI as our continuous integration server. All the tests and builds run on each commit. The project page is:
+https://semaphoreci.com/gitlinks/gitrank-web
 
 ## Servers
 - Production server: [gitrank.io](https://gitrank.io)
