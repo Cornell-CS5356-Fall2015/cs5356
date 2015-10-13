@@ -11,7 +11,7 @@ There are many sites that allow Bitcoin gambling, like Satoshibet, and making on
 
 ### Team
 
-[Harrison Gregg](/people/harrison-gregg.md), [Rishav Kanoria](/people/rishav-kanoria.md), [Haiwei Su](/people/haiwei-su.md)
+[Harrison Gregg](/people/harrison-gregg.md), [Haiwei Su](/people/haiwei-su.md)
 
 ### Project Management
 
