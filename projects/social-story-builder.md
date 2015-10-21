@@ -14,8 +14,8 @@ Create a web application that would allow teachers, therapists, or parents to cr
 [Social Story Builder Web and iOS App](https://github.com/szsen/SocialStoryBuilder)
 
 ### Project Management
-* [Project Dashboard](https://waffle.io/szsen/SocialStoryBuilder)
-  * [First Story](https://github.com/szsen/SocialStoryBuilder/issues/8)
+* [Project Dashboard](https://waffle.io/szsen/ssbuilder)
+  * [First Story](https://github.com/szsen/ssbuilder/issues/8)
 
 ### Continuous Integration
 
