@@ -1,4 +1,3 @@
- - HTTP
- - DOM
- - REST + API's
- - Compatibility
+### Browsers, DOM, CSS + Javascript
+
+* [Lecture](lecture.pdf)
