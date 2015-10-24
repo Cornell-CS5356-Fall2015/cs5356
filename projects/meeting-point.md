@@ -18,8 +18,8 @@ We propose to create an application where your group can pin a location on a map
 * [Server] (https://github.com/meeting-point/mpserver)
 
 ### Continuous Integration and Deployment:
-* [Client] (https://circleci.com/gh/meeting-point/mpclient)
-* [Server] (https://circleci.com/gh/meeting-point/mpserver)
+* [Client] (https://circleci.com/gh/meeting-point/mpclient) ![](https://circleci.com/gh/meeting-point/mpclient.svg?style=shield&circle-token=:circle-token)
+* [Server] (https://circleci.com/gh/meeting-point/mpserver) ![](https://circleci.com/gh/meeting-point/mpserver.svg?style=shield&circle-token=:circle-token)
 
 ### Project Management Tool:
 * [waffle.io client] (https://waffle.io/meeting-point/mpclient)
@@ -27,3 +27,9 @@ We propose to create an application where your group can pin a location on a map
 
 ### Stories
 * [First Story](https://github.com/meeting-point/mpclient/issues/1)
+
+### Deployment
+* Server - http://mp-server.herokuapp.com
+	- This is just the backend, so there is no UI for it.
+	- Example of routes: http://mp-server.herokuapp.com/user/9088927117
+* Client - We are creating a mobile app, so this is not applicable. Will deploy this to Heroku later.
