@@ -13,3 +13,6 @@ A tool to predict who is going to get admitted in hospital in next 12 months and
 
 #Project Management Software
 [Trello](https://trello.com/b/0exzL1xw/hospital-prediction-tool)
+
+#GitHub (Private)
+[GitHub](https://github.com/praveenk01/Hosp)
