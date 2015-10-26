@@ -19,7 +19,7 @@ To do this we will make a website, with user and truck owner portals, and some s
 * [Server](https://github.com/code-11/FoodTruckLocatorServer)
 * [Client](https://github.com/code-11/FoodTruckLocatorClient)
 * [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/1430534)
-* [Heroku Client](https://github.com/code-11/FoodTruckLocatorClient)
-* [Heroku Server](https://github.com/code-11/FoodTruckLocatorClient)
+* [Heroku Client](https://dashboard.heroku.com/apps/foodinatorclient/resources)
+* [Heroku Server](https://dashboard.heroku.com/apps/foodinator/deploy/github)
 
-Continuous integration is working on the server. The live website is available [here](http://foodinatorclient.herokuapp.com/)
+Continuous integration is working on the server. The live website is available [here](http://foodinatorclient.herokuapp.com/).
