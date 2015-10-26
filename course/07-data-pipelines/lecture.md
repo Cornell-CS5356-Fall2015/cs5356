@@ -6,8 +6,5 @@
 
 [Shannon Bradshaw](/people/shannon-bradshaw.md), MongoDB
 
-* Brief MongoDB Overview
-* MongoDB Aggregation Pipeline Concepts
-* Aggregation Operators
-* Aggregation in Sharded Systems
-* New Aggregation Features in the Upcoming MongoDB 3.2 Release
+* [Exploring Aggregation in MongoDB](exploring-aggregation-in-mongodb.pdf)
+* [Census Data](census/dump/census)
