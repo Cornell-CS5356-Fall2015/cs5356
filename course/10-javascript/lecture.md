@@ -1,5 +1,7 @@
 # JavaScript
 
+* [Lecture](lecture.pdf)
+
 ### Guest Speaker
 
 [Andres Dominguez](/people/andres-dominguez.md), Google

@@ -76,15 +76,9 @@ Students enroll a student that is not part of their team to demonstrate progress
 * Convince and have another student present for you.
 * Show an implementation of a second story with automated tests.
 
-#### 4-Nov: MVP Demo and Investor Pitch
+#### 3-Dec through 10-Dec: Project Grading Interviews
 
-Students prepare a 2 minute MVP demo along with an investor pitch and present it in front of the class. The presentation is made around the _value proposition_ of the software.
 
-#### 2-Dec: Project Completion
-
-Students finish their projects.
-
-#### ?-Dec: Demo Day
-
+#### 11-Dec: Open Studio
 We'll have an open-house and demo day for student projects.
 
