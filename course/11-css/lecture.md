@@ -1,4 +1,3 @@
- - Reset
- - Bootstrap
- - Responsive
- - CSS, SASS, LESS
+# CSS
+
+* [Lecture](lecture.pdf)
