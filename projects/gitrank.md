@@ -35,4 +35,7 @@ https://semaphoreci.com/gitlinks/gitrank-web
 - Production server: [gitrank.io](https://gitrank.io)
 - Test server: [dev.gitrank.io](http://dev.gitrank.io)
 
+## Github Indexer
+- Elasticsearch Indexer for github repository information https://github.com/gitlinks/github-indexer
+
 **Extensive information about the project can be found [here](https://github.com/gitlinks/github-rank-project)**
