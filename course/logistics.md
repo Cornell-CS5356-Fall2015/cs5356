@@ -23,10 +23,42 @@ There are 5 buckets you can earn points in, based on the *scope*, *quality* and 
 The buckets are:
 
 1. *Front-End* (includes web and mobile clients)
-2. *API Logic* (e.g. a REST API)
-3. *Processing* (e.g. non-trivial algorithms, bit-coin interaction, ML systems)
-4. *Storage* (e.g. S3, Database tech)
+2. *Back-End* (e.g. a MVC system or REST API)
+3. *Processing* (e.g. non-trivial algorithms, data processing, bitcoin interaction, ML systems)
+4. *Storage* (e.g. S3, Databases)
 5. *DevOps* (e.g. Continuous Integration, Deployment and Monitoring, SDLC infrastructure)
+
+You can earn 3 points per bucket per project.
+
+* 1 point for a working basic system, aka a "Hello World"
+* 2 points for achieving a level of proficiency
+* 3 points for demonstrating advanced capabilities
+
+Bucket point examples.
+
+#### Front-End
+
+* 1 point for having a web UI, 2 points for a well designed web product, 3 points for advanced D3 visualizations
+* 1 point for having a mobile app, 2 points for a well designed mobile app, 3 points for animated transitions
+
+#### Back-End
+
+* 1 point for having a back-end application, 2 points for back-end logic beyond CRUD, 3 points for non-trivial caching
+* 1 point for sending data to a server, including Parse, 2 points for a RESTful API, 3 points for a Hypermedia API
+
+#### Processing
+
+* 1 point for doing anything outside of a request-response loop, 2 points for e-mail notifications, 3 points for any meaningful data analysis
+
+#### Storage
+
+* 1 point for having a database with a schema, 2 points for having migrations and an upgrade path, 3 points for a complex relational model
+* 1 point for using Parse to store data in a mobile app, 2 points for a local store, 3 points for making data available offline via sync
+
+#### DevOps
+
+* 1 point for having tests in a web app, 2 points for a working CI, 3 points for continuous deployment to a PaaS
+* 1 point for having tests in a mobile app, 2 points for a working CI, 3 points for deployment to a test store
 
 ### Attendance
 
