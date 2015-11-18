@@ -95,6 +95,7 @@ People
 
 #### Guest Lecturers
 
+* [Ilya Kavalerov](people/ilya-kavalerov.md)
 Read about guest lectures [here](course/guest-lectures.md).
 
 #### Students
