@@ -95,7 +95,12 @@ People
 
 #### Guest Lecturers
 
+* [Ash Furrow](people/ash-furrow.md)
+* [Andres Dominguez](people/andres-dominguez.md)
+* [Shannon Bradshaw](people/shannon-bradshaw.md)
+* [Sergey Chernyshev](people/sergey-chernyshev.md)
 * [Ilya Kavalerov](people/ilya-kavalerov.md)
+
 Read about guest lectures [here](course/guest-lectures.md).
 
 #### Students
