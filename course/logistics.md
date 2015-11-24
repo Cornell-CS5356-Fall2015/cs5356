@@ -54,6 +54,7 @@ Bucket point examples.
 
 * 1 point for having a database with a schema, 2 points for having migrations and an upgrade path, 3 points for a complex relational model
 * 1 point for using Parse to store data in a mobile app, 2 points for a local store, 3 points for making data available offline via sync
+* 1 point for storing images in S3, 2 points for storing multiple image sizes, 3 points for using a CDN to serve images in front of S3
 
 #### DevOps
 
