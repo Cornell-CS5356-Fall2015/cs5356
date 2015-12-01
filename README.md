@@ -60,7 +60,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [IT Helpouts](projects/it-helpouts.md) - **Team:** [Johan Adami](people/johan-adami.md), [Maria Shen](people/maria-shen.md), [Hannah Xue](people/hannah-xue.md)
 * [Job Tracker](projects/job-tracker.md) - **Team:** [Srinivasa Teja](people/srinivasa-teja.md), [Bhagyasri Canumalla](people/bhagyasri-canumalla.md), [Sindhu Banavara Ravindra](people/sindhu-banavara-ravindra.md)
 * [Meeting Point](projects/meeting-point.md) - **Team:** [Inna Shteinbuk](people/inna-shteinbuk.md), [Jocelyn Kong](people/jocelyn-kong.md), [Halil Akin](people/halil-akin.md)
-* [MeetMe](projects/meetme.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
+* [RendezVous](projects/rendezvous.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
 * [Political Survey App](projects/political-survey-app.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md) - **Team:** [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [Project Deets](projects/project-deets.md) - **Team:** [Michael Wang](people/michael-wang.md), [Vivek Sudarsan](people/vivek-sudarsan.md), [Julian Ferdman](people/julian-ferdman.md)
