@@ -76,8 +76,33 @@ Students enroll a student that is not part of their team to demonstrate progress
 * Convince and have another student present for you.
 * Show an implementation of a second story with automated tests.
 
+
 #### 3-Dec through 10-Dec: Project Grading Interviews
 
+##### Goals
+* The goal of the interview is to assess your project and give you as many points as possible
+* Points can be awarded according to the the [project evaluation rubric](/course/logistics.md#grading).
+* Only working software can contribute to your score
+
+##### Preparation
+* You should be prepared to show you accomplishments and help the graders classify your accomplishments according to the rubric
+* Quickly establish shared understanding with the graders of what your project does
+* Then show the graders the code that drives your project
+* Ideally for each category you can describe the high-level architecture you have chosen
+* Then you can show code, consistent with the architecture described, that makes your product work
+
+##### Scheduling
+* Sign up using the `#project_interviews` slack channel
+* Request one contiguous block of time
+* Requests take the form `Team Name | Number of Team Members | Start Time | Number of Minutes`
+* If you are a team of 1, sign up for a 20-minute slot.
+* If you are a team of 2 or more, sign up for a contiguous block of 20m + 10m per person (so 2 ppl == 40m)
+
+##### Interview Agenda
+* Brief Demo of working software in production - 2 minutes
+* Group Interview - 8 minutes
+* Individual Interviews - 10 minutes per person
+* Grading - 10 minutes
 
 #### 11-Dec: Open Studio
 We'll have an open-house and demo day for student projects.
