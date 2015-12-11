@@ -41,7 +41,6 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 
 * [Addhub](projects/addhub.md) -**Team:** [Jacqueline Pang](people/jacqueline-pang.md), [Sasinda Rukshan](people/sasinda-rukshan.md), [Yilin Xu](people/yilin-xu.md)
 * [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
-* [Blockchain Based Remittance API](projects/blockchain-remittance-api.md) - **Team:** [Nwamaka Nzeocha](people/nwamaka-nzeocha.md), [Jeff Ponnor](people/jeff-ponnor.md), [Murat Akdeniz](people/murat-akdeniz.md)
 * [Blockchain Derivatives](projects/blockchain-derivatives.md) - **Team:** [Bill Marino](people/bill-marino.md)
 * [Blockchain Lottery and Gambling](projects/blockchain-lottery-and-gambling.md) - **Team:** [Harrison Gregg](people/harrison-gregg.md), [Haiwei Su](people/haiwei-su.md)
 * [Blockchain Voting](projects/blockchain-voting.md)
@@ -70,6 +69,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Smart Classroom App](projects/smart-classroom.md)
 * [Social Story Builder](projects/social-story-builder.md) - **Team:** [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)
 * [Social Timeline](projects/social-timeline.md)
+* [String Blockchain](projects/string-blockchain.md) - **Team:** [Nwamaka Nzeocha](people/nwamaka-nzeocha.md), [Jeff Ponnor](people/jeff-ponnor.md), [Murat Akdeniz](people/murat-akdeniz.md)
 * [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md), [Naveen Parthasarathy](people/naveen-parthasarathy.md), [Ashwin Ramanathan](people/ashwin-ramanathan.md)
 * [Two Star Car Service](projects/two-star-car-service.md)
 * [Wanderluster](projects/wanderluster.md) - **Team:** [Shimiao Huang](people/shimiao-huang.md), [Yanbo Li](people/yanbo-li.md), [Liudan Xiao](people/liudan-xiao.md)

@@ -1,4 +1,4 @@
-Block Chain Based Remittance API
+String Blockchain
 ---------------------------------
 
 ### Background
@@ -7,6 +7,8 @@ Build an API for a blockchain based system of sending remittances.
 
 * [Website](http://www.string.nyc/)
 * [Project Link](https://github.com/nwams/Bank-to-Bank-Block-Chain)
+* [String Processor (App to Blockchain)](https://github.com/jsp282/stringprocessor)
+* [Process Files (Blockchain_2_DB)](https://github.com/techgangboss/stringprocess)
 
 ### Challenge
 
