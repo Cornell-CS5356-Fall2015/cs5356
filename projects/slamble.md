@@ -20,8 +20,12 @@ A third phase, will leverage a bet feed so that users can see bets that have bee
 
 ## Repository
 
-* [Repository] (https://github.com/praveen-g/Slamble)
+* [Repository](https://github.com/praveen-g/Slamble)
 
 ### Tests
 
 We are leveraging unit tests in the tests class of "Slamble" in Xcode. We are also using Travis for automatic testing. 
+* [Travis](https://travis-ci.org/praveen-g/Slamble.svg?branch=master)
+
+## Web Site
+* [Slamble](https://slamble.parseapp.com/)

@@ -1,0 +1,18 @@
+# installation for using notebook
+brew update
+brew install python
+pip install numpy scipy ipython seaborn
+
+# install basemap extension using a tarball + make
+# follow directions here: http://matplotlib.org/basemap/users/installing.html
+# what I did to install:
+tar -zxvf basemap-1.0.7.tar.gz
+cd basemap-1.0.7/
+cd geos-3.3.3/
+# you may or may not have permission to use this dir (might need a sudo later)
+export GEOS_DIR=/usr/local
+echo $GEOS_DIR
+./configure --prefix=$GEOS_DIR
+make; make install
+cd ..
+python setup.py install

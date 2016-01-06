@@ -41,7 +41,6 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 
 * [Addhub](projects/addhub.md) -**Team:** [Jacqueline Pang](people/jacqueline-pang.md), [Sasinda Rukshan](people/sasinda-rukshan.md), [Yilin Xu](people/yilin-xu.md)
 * [Bitcoin DIY Remittance](projects/bitcoin-diy-remittance.md)
-* [Blockchain Based Remittance API](projects/blockchain-remittance-api.md) - **Team:** [Nwamaka Nzeocha](people/nwamaka-nzeocha.md), [Jeff Ponnor](people/jeff-ponnor.md), [Murat Akdeniz](people/murat-akdeniz.md)
 * [Blockchain Derivatives](projects/blockchain-derivatives.md) - **Team:** [Bill Marino](people/bill-marino.md)
 * [Blockchain Lottery and Gambling](projects/blockchain-lottery-and-gambling.md) - **Team:** [Harrison Gregg](people/harrison-gregg.md), [Haiwei Su](people/haiwei-su.md)
 * [Blockchain Voting](projects/blockchain-voting.md)
@@ -60,7 +59,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [IT Helpouts](projects/it-helpouts.md) - **Team:** [Johan Adami](people/johan-adami.md), [Maria Shen](people/maria-shen.md), [Hannah Xue](people/hannah-xue.md)
 * [Job Tracker](projects/job-tracker.md) - **Team:** [Srinivasa Teja](people/srinivasa-teja.md), [Bhagyasri Canumalla](people/bhagyasri-canumalla.md), [Sindhu Banavara Ravindra](people/sindhu-banavara-ravindra.md)
 * [Meeting Point](projects/meeting-point.md) - **Team:** [Inna Shteinbuk](people/inna-shteinbuk.md), [Jocelyn Kong](people/jocelyn-kong.md), [Halil Akin](people/halil-akin.md)
-* [MeetMe](projects/meetme.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
+* [RendezVous](projects/rendezvous.md) - **Team** [Mark Assad](people/mark-assad.md), [Anas Bouzoubaa](people/anas-bouzoubaa.md), [Zaid Haque](people/zaid-haque.md)
 * [Political Survey App](projects/political-survey-app.md)
 * [Power Tools Sharing Economy](projects/power-tools-sharing.md) - **Team:** [Asheesh Agarwal](people/asheesh-agarwal.md)
 * [Project Deets](projects/project-deets.md) - **Team:** [Michael Wang](people/michael-wang.md), [Vivek Sudarsan](people/vivek-sudarsan.md), [Julian Ferdman](people/julian-ferdman.md)
@@ -70,6 +69,7 @@ See [Project Logistics](projects/logistics.md) for important dates and deliverab
 * [Smart Classroom App](projects/smart-classroom.md)
 * [Social Story Builder](projects/social-story-builder.md) - **Team:** [Roger Chen](/people/roger-chen.md), [Sonia Sen](/people/sonia-sen.md), [Ruiheng Wang](/people/ruiheng-wang.md)
 * [Social Timeline](projects/social-timeline.md)
+* [String Blockchain](projects/string-blockchain.md) - **Team:** [Nwamaka Nzeocha](people/nwamaka-nzeocha.md), [Jeff Ponnor](people/jeff-ponnor.md), [Murat Akdeniz](people/murat-akdeniz.md)
 * [Trade Platform](projects/trade-platform.md) - **Team:** [Peter Tran](people/peter-tran.md), [Naveen Parthasarathy](people/naveen-parthasarathy.md), [Ashwin Ramanathan](people/ashwin-ramanathan.md)
 * [Two Star Car Service](projects/two-star-car-service.md)
 * [Wanderluster](projects/wanderluster.md) - **Team:** [Shimiao Huang](people/shimiao-huang.md), [Yanbo Li](people/yanbo-li.md), [Liudan Xiao](people/liudan-xiao.md)
@@ -94,6 +94,12 @@ People
 * [David Gochfeld](people/david-gochfeld.md)
 
 #### Guest Lecturers
+
+* [Ash Furrow](people/ash-furrow.md)
+* [Andres Dominguez](people/andres-dominguez.md)
+* [Shannon Bradshaw](people/shannon-bradshaw.md)
+* [Sergey Chernyshev](people/sergey-chernyshev.md)
+* [Ilya Kavalerov](people/ilya-kavalerov.md)
 
 Read about guest lectures [here](course/guest-lectures.md).
 
