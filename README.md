@@ -150,6 +150,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Naveen Parthasarathy](people/naveen-parthasarathy.md)
 * [Nicolas Joseph](people/nicolas-joseph.md)
 * [Nwamaka Nzeocha](people/nwamaka-nzeocha.md)
+* [Oliver Plunkett](people/oliver-plunkett.md)
 * [Omri Sass](people/omri-sass.md)
 * [Peter Tran](people/peter-tran.md)
 * [Praveen Gupta](people/praveen-gupta.md)
